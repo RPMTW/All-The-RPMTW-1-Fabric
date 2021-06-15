@@ -1,0 +1,8 @@
+mods/
+saves/
+logs
+.fabric
+.curseclient
+.mixin.out
+options.txt
+patchouli_data.json

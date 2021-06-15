@@ -1,0 +1,9 @@
+crowdin = true
+ReloadPack = true
+ReportTranslation = true
+notice = true
+afk = false
+AfkTime = 600
+isChinese = true
+Token = ""
+isCheck = false
