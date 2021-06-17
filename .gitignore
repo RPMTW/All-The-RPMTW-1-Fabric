@@ -12,3 +12,4 @@ logs
 options.txt
 patchouli_data.json
 *.png
+*.json
