@@ -430,7 +430,7 @@
   "cachedScans": [],
   "isValid": true,
   "lastPreviousMatchUpdate": "2021-06-17T05:49:26.6923669Z",
-  "lastRefreshAttempt": "2021-06-17T13:49:29.0010589+08:00",
+  "lastRefreshAttempt": "2021-06-17T14:11:49.9729066+08:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.17",
@@ -1315,6 +1315,122 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 461500,
+      "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
+      "installedFile": {
+        "id": 3354843,
+        "displayName": "Fabric-1.17-1.1.7",
+        "fileName": "RPMTW-Update-Mod-Fabric-1.17-1.1.7.jar",
+        "fileDate": "2021-06-17T06:08:18.7Z",
+        "fileLength": 1246724,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3354/843/RPMTW-Update-Mod-Fabric-1.17-1.1.7.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 319057,
+            "type": 1,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 308702,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 317121,
+            "type": 1,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4236565048,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "RpmtwUpdateMod.mixins.json",
+            "fingerprint": 1781895534,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "RpmtwUpdateMod.accesswidener",
+            "fingerprint": 3609382491,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2028908509,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3427511904,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "RPMTW-Update-Mod-Fabric-1.17-refmap.json",
+            "fingerprint": 3238645033,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "siongsng",
+            "fingerprint": 1382735979,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3206814312,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "RPMTW-Update-Mod-Fabric-1.17-1.1.7.jar"
+      },
+      "dateInstalled": "2021-06-17T06:11:43.7247748Z",
+      "dateUpdated": "2021-06-17T06:11:43.7327751Z",
+      "dateLastUpdateAttempted": "2021-06-17T06:11:43.7327751Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 392805,
@@ -7868,8 +7984,8 @@
         "isServerPack": false,
         "FileNameOnDisk": "cherishedworlds-fabric-1.4.1-1.17.jar"
       },
-      "dateInstalled": "2021-06-17T05:36:16.9080012Z",
-      "dateUpdated": "2021-06-17T05:36:16.9080012Z",
+      "dateInstalled": "2021-06-17T05:49:26.6893668Z",
+      "dateUpdated": "2021-06-17T05:49:26.6893668Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 4,
       "preferenceAutoInstallUpdates": null,

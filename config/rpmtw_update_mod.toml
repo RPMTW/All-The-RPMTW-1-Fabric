@@ -1,6 +1,5 @@
 crowdin = true
 ReloadPack = true
-ReportTranslation = true
 notice = true
 afk = false
 AfkTime = 600
