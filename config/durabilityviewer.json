@@ -41,7 +41,7 @@
     "value": 1,
     "defaultValue": 1,
     "minValue": 0,
-    "maxValue": 0
+    "maxValue": 3
   },
   "durabilityviewer.config.effectduration": {
     "key": "durabilityviewer.config.effectduration",
@@ -61,7 +61,7 @@
     "value": 0,
     "defaultValue": 0,
     "minValue": 0,
-    "maxValue": 0
+    "maxValue": 3
   },
   "durabilityviewer.config.showfreeslots": {
     "key": "durabilityviewer.config.showfreeslots",

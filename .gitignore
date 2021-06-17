@@ -1,8 +1,12 @@
 mods/
 saves/
+crash-reports/
+voxelmap/
+screenshots/
 logs
 .fabric
 .curseclient
 .mixin.out
 options.txt
 patchouli_data.json
+*.png

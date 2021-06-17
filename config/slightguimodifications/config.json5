@@ -1,6 +1,6 @@
 {
-	"fluidAdvancements": true,
-	"fluidStatusEffects": true,
+	"fluidAdvancements": false,
+	"fluidStatusEffects": false,
 	// Whether we should unlimit the hard 60 fps limit placed on the title screen.
 	"unlimitTitleScreenFps": true,
 	"openingAnimation": {
@@ -41,7 +41,7 @@
 		"customBackgroundTexture": true
 	},
 	"debugInformation": {
-		"showFps": true
+		"showFps": false
 	},
 	"customScaling": {
 		"vanillaScaleSlider": true,
