@@ -67,18 +67,6 @@ mainMenu {
     }
     button {
         position {
-            x { it / 2 + 110 }
-            y = 159
-        }
-        width = 100
-        height = 20
-
-        text = literal("Reload")
-        onClicked = reloadCts()
-    }
-    
-    button {
-        position {
             x { it / 2 + 3 }
             y = 227
         }
