@@ -3,6 +3,8 @@ saves/
 crash-reports/
 voxelmap/
 screenshots/
+craftpresence/
+ModTranslations/
 logs
 .fabric
 .curseclient
