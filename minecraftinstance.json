@@ -1385,6 +1385,122 @@
       "installedTargets": null
     },
     {
+      "addonID": 435054,
+      "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
+      "installedFile": {
+        "id": 3357348,
+        "displayName": "fguns-1.17-3.3.1.jar",
+        "fileName": "fguns-1.17-3.3.1.jar",
+        "fileDate": "2021-06-19T13:22:19.457Z",
+        "fileLength": 1028136,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3357/348/fguns-1.17-3.3.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 444498,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 2434262274,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1020113703,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1839152887,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3605445676,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fguns.mixins.json",
+            "fingerprint": 324718433,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fguns.accessWidener",
+            "fingerprint": 1451151131,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fguns-1.17-refmap.json",
+            "fingerprint": 838408844,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 1162495500,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1324160299,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "fguns-1.17-3.3.1.jar"
+      },
+      "dateInstalled": "2021-06-22T12:22:28.2510501Z",
+      "dateUpdated": "2021-06-22T12:22:28.2860525Z",
+      "dateLastUpdateAttempted": "2021-06-22T12:22:28.2860525Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 397183,
       "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
       "installedFile": {
@@ -9922,6 +10038,110 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 436404,
+      "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
+      "installedFile": {
+        "id": 3329501,
+        "displayName": "SlimeSling-1.17-1.0.0.jar",
+        "fileName": "SlimeSling-1.17-1.0.0.jar",
+        "fileDate": "2021-05-29T15:58:05.983Z",
+        "fileLength": 83729,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3329/501/SlimeSling-1.17-1.0.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 1867285328,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 136876829,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 4138126536,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "slime_sling.mixins.json",
+            "fingerprint": 2605898582,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2427692540,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "SlimeSling-1.17-refmap.json",
+            "fingerprint": 1802379925,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 3144003763,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3516613977,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "SlimeSling-1.17-1.0.0.jar"
+      },
+      "dateInstalled": "2021-06-22T12:21:44.3119174Z",
+      "dateUpdated": "2021-06-22T12:21:44.3149187Z",
+      "dateLastUpdateAttempted": "2021-06-22T12:21:44.3149187Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 419697,
