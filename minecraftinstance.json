@@ -693,14 +693,14 @@
       "addonID": 444498,
       "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
       "installedFile": {
-        "id": 3356265,
-        "displayName": "flytre_lib-1.17-0.2.14.jar",
-        "fileName": "flytre_lib-1.17-0.2.14.jar",
-        "fileDate": "2021-06-18T14:07:33.41Z",
-        "fileLength": 103517,
+        "id": 3359699,
+        "displayName": "flytre_lib-1.17-0.2.15.jar",
+        "fileName": "flytre_lib-1.17-0.2.15.jar",
+        "fileDate": "2021-06-21T12:52:56.407Z",
+        "fileLength": 128635,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3356/265/flytre_lib-1.17-0.2.14.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3359/699/flytre_lib-1.17-0.2.15.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -739,30 +739,30 @@
           },
           {
             "foldername": "flytre_lib.mixins.json",
-            "fingerprint": 2482906272,
+            "fingerprint": 852095713,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 362008853,
+            "fingerprint": 2304381712,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "flytre_lib-1.17-refmap.json",
-            "fingerprint": 1798936085,
+            "fingerprint": 1680675566,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "net",
-            "fingerprint": 2799062645,
+            "fingerprint": 1526782934,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3867276693,
+        "packageFingerprint": 497389068,
         "gameVersion": [
           "1.17",
           "Fabric",
@@ -777,12 +777,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "flytre_lib-1.17-0.2.14.jar"
+        "FileNameOnDisk": "flytre_lib-1.17-0.2.15.jar"
       },
       "dateInstalled": "2021-06-16T04:04:36.8106036Z",
-      "dateUpdated": "2021-06-19T01:37:14.3511744Z",
-      "dateLastUpdateAttempted": "2021-06-19T01:37:14.3511744Z",
-      "status": 3,
+      "dateUpdated": "2021-06-22T02:39:42.8680243Z",
+      "dateLastUpdateAttempted": "2021-06-22T02:39:42.8680243Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
