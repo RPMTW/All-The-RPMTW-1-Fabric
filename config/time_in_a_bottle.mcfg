@@ -1,0 +1,8 @@
+// How many ticks must have passed for a Time in a Bottle gain 1 second.
+// Default: 20
+TIME_SECOND=20
+
+// Max amount of ticks inside of a Time in a Bottle.
+// Default: 622080000
+MAX_TIME=622080000
+

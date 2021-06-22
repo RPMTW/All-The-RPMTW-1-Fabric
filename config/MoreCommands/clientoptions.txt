@@ -1,0 +1,46 @@
+#MoreCommand's client-only options.
+#These should not be changed manually, but rather be set via the in-game menu. (esc -> options -> MoreCommands)
+#Sun Jun 20 14:40:04 CST 2021
+defColour=GOLD
+enableInfoHud=false
+hiddenOptions=false
+joinNotifyNameMC=true
+showExactLatency=true
+infiniteChat=true
+showMsgTime=false
+immediateMoveStop=false
+collideAll=false
+lockFlying=false
+shareTag=true
+avoidCactusDmg=false
+showSeconds=false
+advertiseMC=true
+rainbows=false
+seeTagSneaking=true
+chatMsgCopy=true
+powertoolsGlint=true
+screensInPortal=true
+fixAnimItemSeams=false
+noSignLimit=true
+doBlockPush=true
+rainbowSplash=false
+ignoreEmptyMsgs=true
+renderOwnTag=true
+fixItemSeams=true
+askPermission=true
+colourPickerOpen=false
+bigTabPager=false
+renderFog=true
+use12HourClock=false
+sprintAutoJump=false
+disableElytra=false
+targetFluids=false
+creativeKeyPager=true
+alwaysMinceraft=false
+openDoubleDoors=true
+enableRPC=true
+secColour=YELLOW
+sitOnStairs=true
+chatMsgRemove=true
+showDetails=true
+textColourPicker=true

@@ -1,8 +1,8 @@
 {
-  "islandSize": 5,
+  "islandSize": 4,
   "islandRarity": 6,
   "startingBiome": "minecraft:forest",
   "generateBeaches": true,
   "seperateBiomes": true,
-  "hardcoreMode": false
+  "hardcoreMode": true
 }

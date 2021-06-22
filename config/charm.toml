@@ -87,9 +87,11 @@
 #Husks spawn anywhere within their biome and have a chance to drop sand.
 "HuskImprovements Enabled" = true
 #Button to automatically tidy inventories.
-"InventoryTidying Enabled" = true
+"InventoryTidying Enabled" = false
 #A functional block that speeds up cooking of clay, glass, bricks and terracotta.
 "Kilns Enabled" = true
+#Drop an item onto a lava bucket item to destroy it.
+"LavaBucketDestroysItems Enabled" = true
 #Lumberjacks are villagers that trade wooden items. Their job site is the woodcutter.
 "Lumberjacks Enabled" = true
 #Show maps in tooltips.
@@ -227,6 +229,8 @@
 	"Maximum bottles" = 64
 	#If true, casks show their custom name and capacity as a hovering label. Requires the 'Storage Labels' feature to be enabled.
 	"Show label" = true
+	#If true, a cask remembers it contents when broken.
+	"Preserve contents" = true
 
 [CaveSpidersDropCobwebs]
 	#Maximum cobwebs dropped when cave spider is killed.

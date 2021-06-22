@@ -8,44 +8,6 @@
   "waystone_block_hardness": 4,
   "waystone_block_required_mining_level": 1.0,
   "recipes": {
-    "abyss_watcher": {
-      "type": "minecraft:crafting_shaped",
-      "pattern": [
-        "FEF"
-      ],
-      "key": {
-        "E": {
-          "item": "minecraft:ender_pearl"
-        },
-        "F": {
-          "item": "minecraft:flint"
-        }
-      },
-      "result": {
-        "item": "waystones:abyss_watcher",
-        "count": 1
-      }
-    },
-    "waystone_scroll": {
-      "type": "minecraft:crafting_shaped",
-      "pattern": [
-        "SPS",
-        "PPP",
-        "SPS"
-      ],
-      "key": {
-        "P": {
-          "item": "minecraft:paper"
-        },
-        "S": {
-          "item": "minecraft:stick"
-        }
-      },
-      "result": {
-        "item": "waystones:waystone_scroll",
-        "count": 1
-      }
-    },
     "waystone_recipe": {
       "type": "minecraft:crafting_shaped",
       "pattern": [
@@ -69,6 +31,26 @@
       },
       "result": {
         "item": "waystones:waystone",
+        "count": 1
+      }
+    },
+    "waystone_scroll": {
+      "type": "minecraft:crafting_shaped",
+      "pattern": [
+        "SPS",
+        "PPP",
+        "SPS"
+      ],
+      "key": {
+        "P": {
+          "item": "minecraft:paper"
+        },
+        "S": {
+          "item": "minecraft:stick"
+        }
+      },
+      "result": {
+        "item": "waystones:waystone_scroll",
         "count": 1
       }
     },
@@ -112,6 +94,24 @@
       },
       "result": {
         "item": "waystones:local_void",
+        "count": 1
+      }
+    },
+    "abyss_watcher": {
+      "type": "minecraft:crafting_shaped",
+      "pattern": [
+        "FEF"
+      ],
+      "key": {
+        "E": {
+          "item": "minecraft:ender_pearl"
+        },
+        "F": {
+          "item": "minecraft:flint"
+        }
+      },
+      "result": {
+        "item": "waystones:abyss_watcher",
         "count": 1
       }
     }

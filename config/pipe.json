@@ -1,0 +1,5 @@
+{
+  "render_items": true,
+  "max_item_render_distance": 24,
+  "max_render_pipe_length": 50
+}

@@ -1,0 +1,21 @@
+{
+  "quality": {
+    "cloud_quality": "DEFAULT",
+    "weather_quality": "DEFAULT",
+    "enable_vignette": true,
+    "enable_clouds": true,
+    "smooth_lighting": "HIGH"
+  },
+  "advanced": {
+    "use_vertex_arrays": true,
+    "use_multidraw": true,
+    "animate_only_visible_textures": true,
+    "use_advanced_entity_culling": true,
+    "use_particle_culling": true,
+    "use_fog_occlusion": true,
+    "use_compact_vertex_format": true,
+    "use_chunk_face_culling": true,
+    "use_memory_intrinsics": true,
+    "disable_driver_blacklist": false
+  }
+}
