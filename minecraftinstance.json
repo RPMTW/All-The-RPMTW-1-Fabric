@@ -12612,24 +12612,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 429841,
-      "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
-      "installedFile": null,
-      "dateInstalled": "2021-06-22T03:03:50.5729552Z",
-      "dateUpdated": "2021-06-22T03:03:50.5779542Z",
-      "dateLastUpdateAttempted": "2021-06-22T03:03:50.5779542Z",
-      "status": 3,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
       "addonID": 492782,
       "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
       "installedFile": {
@@ -15195,131 +15177,10 @@
     {
       "addonID": 427177,
       "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
-      "installedFile": {
-        "id": 3359224,
-        "displayName": "Gobber2-Fabric-1.17-2.4.16.jar",
-        "fileName": "Gobber2-Fabric-1.17-2.4.16.jar",
-        "fileDate": "2021-06-21T00:51:10.903Z",
-        "fileLength": 535871,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3359/224/Gobber2-Fabric-1.17-2.4.16.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 66922364,
-            "addonId": 319057,
-            "type": 3,
-            "fileId": 3359224
-          },
-          {
-            "id": 66922363,
-            "addonId": 310111,
-            "type": 2,
-            "fileId": 3359224
-          },
-          {
-            "id": 66922365,
-            "addonId": 394941,
-            "type": 3,
-            "fileId": 3359224
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1171790412,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 18375977,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2970151520,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "gobber2.mixins.json",
-            "fingerprint": 1686840276,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 4013802881,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 4083488268,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 3916141139,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "Gobber2-Fabric-1.17-refmap.json",
-            "fingerprint": 3571089279,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 1915458662,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1464237195,
-        "gameVersion": [
-          "1.17",
-          "Fabric"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000017",
-            "gameVersion": "1.17",
-            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
-            "gameVersionName": "1.17"
-          },
-          {
-            "gameVersionPadded": "0",
-            "gameVersion": "",
-            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-            "gameVersionName": "Fabric"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2371826,
-        "projectId": 427177,
-        "packageFingerprintId": 688382529,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3062054,
-        "gameVersionId": 7499,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "Gobber2-Fabric-1.17-2.4.16.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-06-21T05:37:59.2014718Z",
       "dateUpdated": "2021-06-21T05:37:59.2014718Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "dateLastUpdateAttempted": "2021-06-22T03:05:36.5576959Z",
       "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
