@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-06-21T04:06:32.3384509Z",
-  "playedCount": 33,
+  "lastPlayed": "2021-06-22T02:41:45.3848483Z",
+  "playedCount": 34,
   "manifest": {
     "minecraft": {
       "version": "1.17",
@@ -10548,6 +10548,138 @@
       "installedTargets": null
     },
     {
+      "addonID": 459857,
+      "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
+      "installedFile": {
+        "id": 3360116,
+        "displayName": "ferritecore-3.0.0-fabric.jar",
+        "fileName": "ferritecore-3.0.0-fabric.jar",
+        "fileDate": "2021-06-21T18:41:20.75Z",
+        "fileLength": 101131,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3360/116/ferritecore-3.0.0-fabric.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2851254919,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "googleaccess",
+            "fingerprint": 2900177770,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ferritecore.mrl.mixin.json",
+            "fingerprint": 2116456544,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ferritecore.dedupbakedquad.mixin.json",
+            "fingerprint": 683791010,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ferritecore.blockstatecache.mixin.json",
+            "fingerprint": 1223516792,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ferritecore.fastmap.mixin.json",
+            "fingerprint": 1202841837,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 3369927219,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ferritecore.dedupmultipart.mixin.json",
+            "fingerprint": 850764703,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ferritecore.predicates.mixin.json",
+            "fingerprint": 1451291568,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ferritecore-common-refmap.json",
+            "fingerprint": 4228507725,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ferritecore.fabric.mixin.json",
+            "fingerprint": 3544752643,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1415483058,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ferritecore-fabric-refmap.json",
+            "fingerprint": 2926922834,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "malte0811",
+            "fingerprint": 1129469392,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1456565004,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ferritecore-3.0.0-fabric.jar"
+      },
+      "dateInstalled": "2021-06-22T02:41:32.6882543Z",
+      "dateUpdated": "2021-06-22T02:41:32.7082506Z",
+      "dateLastUpdateAttempted": "2021-06-22T02:41:32.7082506Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 365727,
       "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
       "installedFile": {
@@ -10963,6 +11095,109 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 354047,
+      "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
+      "installedFile": {
+        "id": 3360194,
+        "displayName": "okzoomer-5.0.0-beta.2+1.17",
+        "fileName": "okzoomer-5.0.0-beta.2+1.17.jar",
+        "fileDate": "2021-06-21T19:26:36.46Z",
+        "fileLength": 492248,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3360/194/okzoomer-5.0.0-beta.2+1.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 308702,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "assets",
+            "fingerprint": 2305276495,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1340565832,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "io",
+            "fingerprint": 891821453,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 2539290601,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2685122404,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "okzoomer-refmap.json",
+            "fingerprint": 1909049899,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "okzoomer.mixins.json",
+            "fingerprint": 2787446688,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1707929440,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "okzoomer-5.0.0-beta.2+1.17.jar"
+      },
+      "dateInstalled": "2021-06-22T02:40:36.3686613Z",
+      "dateUpdated": "2021-06-22T02:40:36.3896545Z",
+      "dateLastUpdateAttempted": "2021-06-22T02:40:36.3896545Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 398614,
