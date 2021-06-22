@@ -4170,24 +4170,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 357718,
-      "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
-      "installedFile": null,
-      "dateInstalled": "2021-06-15T14:12:09.3096676Z",
-      "dateUpdated": "2021-06-15T14:12:09.3176713Z",
-      "dateLastUpdateAttempted": "2021-06-15T14:12:09.3176713Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 400619,
       "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
       "installedFile": {
@@ -8327,98 +8309,7 @@
     {
       "addonID": 442509,
       "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
-      "installedFile": {
-        "id": 3347880,
-        "displayName": "Quartz Elevator v1.2.2 for 1.17",
-        "fileName": "quartz-elevator-1.2.2-1.17.jar",
-        "fileDate": "2021-06-11T15:46:12.617Z",
-        "fileLength": 915460,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3347/880/quartz-elevator-1.2.2-1.17.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 319057,
-            "type": 1,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 308702,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2577800391,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE_quartz-elevator",
-            "fingerprint": 2530533623,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 2266947605,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3017602058,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 475552234,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "quartzelv.mixins.json",
-            "fingerprint": 3825166199,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "quartz-elevator-refmap.json",
-            "fingerprint": 659762745,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "atonkish",
-            "fingerprint": 1734160740,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2593169110,
-        "gameVersion": [
-          "1.17",
-          "Fabric"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "quartz-elevator-1.2.2-1.17.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-06-17T04:42:52.3522488Z",
       "dateUpdated": "2021-06-17T04:42:52.3592515Z",
       "dateLastUpdateAttempted": "2021-06-17T04:42:52.3592515Z",
@@ -8426,7 +8317,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
