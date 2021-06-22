@@ -2252,6 +2252,108 @@
       "installedTargets": null
     },
     {
+      "addonID": 387197,
+      "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
+      "installedFile": {
+        "id": 3345668,
+        "displayName": "golemsgalore-1.0.2+mc.1.17.jar",
+        "fileName": "golemsgalore-1.0.2+mc.1.17.jar",
+        "fileDate": "2021-06-09T22:35:11.373Z",
+        "fileLength": 2344487,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3345/668/golemsgalore-1.0.2+mc.1.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3770031411,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 1136524626,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "golemsgalore.mixins.json",
+            "fingerprint": 1978496405,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "golemsgalore.accesswidener",
+            "fingerprint": 1471771680,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1189739076,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2440588706,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1512177559,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "golemsgalore-refmap.json",
+            "fingerprint": 193710230,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "io",
+            "fingerprint": 25910212,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 367242599,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "golemsgalore-1.0.2+mc.1.17.jar"
+      },
+      "dateInstalled": "2021-06-22T08:57:59.8219812Z",
+      "dateUpdated": "2021-06-22T08:57:59.8479838Z",
+      "dateLastUpdateAttempted": "2021-06-22T08:57:59.8479838Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 408366,
       "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
       "installedFile": {
@@ -10815,6 +10917,116 @@
       "installedTargets": null
     },
     {
+      "addonID": 393563,
+      "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
+      "installedFile": {
+        "id": 3359936,
+        "displayName": "Blur 2.2.1 - 1.17",
+        "fileName": "Blur-2.2.1-1.17+fabric.jar",
+        "fileDate": "2021-06-21T16:25:56.687Z",
+        "fileLength": 126558,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3359/936/Blur-2.2.1-1.17+fabric.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 385463,
+            "type": 1,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2418257123,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 2305068543,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mixins.blur.json",
+            "fingerprint": 3619181906,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3477013538,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3197274904,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "Blur-refmap.json",
+            "fingerprint": 2111451456,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3184023137,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "eu",
+            "fingerprint": 2801444466,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 905546928,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Blur-2.2.1-1.17+fabric.jar"
+      },
+      "dateInstalled": "2021-06-22T09:04:52.2496502Z",
+      "dateUpdated": "2021-06-22T09:04:52.2526516Z",
+      "dateLastUpdateAttempted": "2021-06-22T09:04:52.2526516Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 367944,
       "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
       "installedFile": {
@@ -12928,6 +13140,115 @@
       "installedTargets": null
     },
     {
+      "addonID": 408118,
+      "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
+      "installedFile": {
+        "id": 3358205,
+        "displayName": "[1.17] v5.0.0",
+        "fileName": "megane-5.0.0.jar",
+        "fileDate": "2021-06-20T07:51:35.353Z",
+        "fileLength": 171045,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3358/205/megane-5.0.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 440979,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 233564,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 475623,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 388832,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 461316,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 391708,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 317995,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1299881281,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2792347975,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 4162898795,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3421554505,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "megane-5.0.0.jar"
+      },
+      "dateInstalled": "2021-06-22T09:02:27.6237184Z",
+      "dateUpdated": "2021-06-22T09:02:27.6257194Z",
+      "dateLastUpdateAttempted": "2021-06-22T09:02:27.6257194Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 395864,
       "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
       "installedFile": {
@@ -13774,6 +14095,116 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 495049,
+      "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
+      "installedFile": {
+        "id": 3357349,
+        "displayName": "salutem-1.17-1.2.0.jar",
+        "fileName": "salutem-1.17-1.2.0.jar",
+        "fileDate": "2021-06-19T13:24:20.46Z",
+        "fileLength": 483904,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3357/349/salutem-1.17-1.2.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 444498,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 1867285328,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3494738544,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "salutem.mixins.json",
+            "fingerprint": 525222310,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 827851949,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "salutem.accessWidener",
+            "fingerprint": 158056483,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "salutem-1.17-refmap.json",
+            "fingerprint": 1950479615,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 954814492,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2264735471,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "salutem-1.17-1.2.0.jar"
+      },
+      "dateInstalled": "2021-06-22T08:53:57.0621998Z",
+      "dateUpdated": "2021-06-22T08:53:57.0652055Z",
+      "dateLastUpdateAttempted": "2021-06-22T08:53:57.0652055Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 486137,
