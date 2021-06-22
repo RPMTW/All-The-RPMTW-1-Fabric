@@ -4170,6 +4170,96 @@
       "installedTargets": null
     },
     {
+      "addonID": 491407,
+      "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
+      "installedFile": {
+        "id": 3355009,
+        "displayName": "[1.17] NoRecipeBook v2.1",
+        "fileName": "norecipebook-2.1+1.17.jar",
+        "fileDate": "2021-06-17T11:28:48.27Z",
+        "fileLength": 11549,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3355/9/norecipebook-2.1+1.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE.txt",
+            "fingerprint": 1136524626,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3662847163,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "norecipebook.mixins.json",
+            "fingerprint": 824912733,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3450525467,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "norecipebook-refmap.json",
+            "fingerprint": 1470169126,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "io",
+            "fingerprint": 2298928892,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3953206442,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "norecipebook-2.1+1.17.jar"
+      },
+      "dateInstalled": "2021-06-22T02:53:51.4388671Z",
+      "dateUpdated": "2021-06-22T02:53:51.5058625Z",
+      "dateLastUpdateAttempted": "2021-06-22T02:53:51.5058625Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 400619,
       "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
       "installedFile": {

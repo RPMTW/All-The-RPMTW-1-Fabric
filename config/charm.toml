@@ -114,7 +114,7 @@
 #Player-only pressure plates.
 "PlayerPressurePlates Enabled" = true
 #Allows crafting from inventory if the player has a crafting table in their inventory.
-"PortableCrafting Enabled" = true
+"PortableCrafting Enabled" = false
 #Causes all hoglins in the vicinity to run away from you.
 "PotionOfHogsbane Enabled" = true
 #Shows particles at ground level to help locate ores below you.
