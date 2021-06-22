@@ -4,10 +4,10 @@
       "item": "kubejs:atr_questbook"
     },
     "title": {
-      "translate": "進入 ATR 的世界"
+      "translate": "advancements.quest.root.name"
     },
     "description": {
-      "translate": "遊玩 ATR 模組包！"
+      "translate": "advancements.quest.root.description"
     },
     "frame": "task",
     "show_toast": true,
