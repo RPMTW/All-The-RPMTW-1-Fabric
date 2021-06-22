@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-06-22T02:41:45.3848483Z",
-  "playedCount": 34,
+  "lastPlayed": "2021-06-22T08:14:22.0620092Z",
+  "playedCount": 36,
   "manifest": {
     "minecraft": {
       "version": "1.17",
@@ -429,8 +429,8 @@
   "name": "ATR1 + Fabric",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-06-22T03:03:06.7191722Z",
-  "lastRefreshAttempt": "2021-06-22T11:03:53.0824228+08:00",
+  "lastPreviousMatchUpdate": "2021-06-22T08:03:50.3846697Z",
+  "lastRefreshAttempt": "2021-06-22T16:03:51.5238354+08:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.17",
@@ -2872,14 +2872,14 @@
       "addonID": 490812,
       "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
       "installedFile": {
-        "id": 3357644,
-        "displayName": "1.17-0.2.2-beta",
-        "fileName": "artifality-mc1.17-0.2.2-beta.jar",
-        "fileDate": "2021-06-19T19:05:57.39Z",
-        "fileLength": 162908,
+        "id": 3360685,
+        "displayName": "1.17-0.2.3-beta",
+        "fileName": "artifality-mc1.17-0.2.3-beta.jar",
+        "fileDate": "2021-06-22T06:47:05.607Z",
+        "fileLength": 167608,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3357/644/artifality-mc1.17-0.2.2-beta.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3360/685/artifality-mc1.17-0.2.3-beta.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -2891,14 +2891,14 @@
           },
           {
             "id": 0,
-            "addonId": 341284,
-            "type": 3,
+            "addonId": 492111,
+            "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 492111,
-            "type": 2,
+            "addonId": 341284,
+            "type": 3,
             "fileId": 0
           }
         ],
@@ -2918,7 +2918,7 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 3925735970,
+            "fingerprint": 2618216300,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -2930,30 +2930,30 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 1448215879,
+            "fingerprint": 3420293369,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "artifality.mixins.json",
-            "fingerprint": 304794947,
+            "fingerprint": 130262451,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "artifality-refmap.json",
-            "fingerprint": 2724806006,
+            "fingerprint": 4093663531,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "artifality",
-            "fingerprint": 1587045032,
+            "fingerprint": 889406357,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 501233987,
+        "packageFingerprint": 1264954533,
         "gameVersion": [
           "1.17",
           "Fabric"
@@ -2967,12 +2967,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "artifality-mc1.17-0.2.2-beta.jar"
+        "FileNameOnDisk": "artifality-mc1.17-0.2.3-beta.jar"
       },
       "dateInstalled": "2021-06-17T14:25:16.3580313Z",
-      "dateUpdated": "2021-06-20T06:27:49.6903032Z",
-      "dateLastUpdateAttempted": "2021-06-20T06:27:49.6903032Z",
-      "status": 5,
+      "dateUpdated": "2021-06-22T08:17:19.3029821Z",
+      "dateLastUpdateAttempted": "2021-06-22T08:17:19.3029821Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3062,7 +3062,7 @@
       "dateInstalled": "2021-06-21T03:44:47.4273699Z",
       "dateUpdated": "2021-06-21T03:44:47.4619209Z",
       "dateLastUpdateAttempted": "2021-06-21T03:44:47.4619209Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3165,7 +3165,7 @@
       "dateInstalled": "2021-06-21T03:45:17.4781942Z",
       "dateUpdated": "2021-06-21T03:45:17.4841967Z",
       "dateLastUpdateAttempted": "2021-06-21T03:45:17.4841967Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3460,7 +3460,7 @@
       "dateInstalled": "2021-06-20T13:44:10.0621812Z",
       "dateUpdated": "2021-06-21T04:25:16.2026758Z",
       "dateLastUpdateAttempted": "2021-06-21T04:25:16.2026758Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4573,7 +4573,7 @@
       "dateInstalled": "2021-06-17T15:06:57.1529826Z",
       "dateUpdated": "2021-06-21T04:25:23.7314473Z",
       "dateLastUpdateAttempted": "2021-06-21T04:25:23.7314473Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6747,7 +6747,7 @@
       "dateInstalled": "2021-06-19T01:20:42.8426322Z",
       "dateUpdated": "2021-06-21T04:25:29.262071Z",
       "dateLastUpdateAttempted": "2021-06-21T04:25:29.262071Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9071,7 +9071,7 @@
       "dateInstalled": "2021-06-14T15:49:28.8048789Z",
       "dateUpdated": "2021-06-21T04:25:18.2921617Z",
       "dateLastUpdateAttempted": "2021-06-21T04:25:18.2921617Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10270,7 +10270,7 @@
       "dateInstalled": "2021-06-21T05:47:24.480389Z",
       "dateUpdated": "2021-06-21T05:47:24.4833918Z",
       "dateLastUpdateAttempted": "2021-06-21T05:47:24.4833918Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11635,7 +11635,7 @@
       "dateInstalled": "2021-06-14T15:50:22.7165429Z",
       "dateUpdated": "2021-06-21T04:25:08.3426218Z",
       "dateLastUpdateAttempted": "2021-06-21T04:25:08.3426218Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12612,6 +12612,146 @@
       "installedTargets": null
     },
     {
+      "addonID": 395864,
+      "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
+      "installedFile": {
+        "id": 3355296,
+        "displayName": "kubejs-fabric-1605.3.10-build.9999.jar",
+        "fileName": "kubejs-fabric-1605.3.10-build.9999.jar",
+        "fileDate": "2021-06-17T16:37:25.28Z",
+        "fileLength": 682011,
+        "releaseType": 3,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3355/296/kubejs-fabric-1605.3.10-build.9999.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 416294,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 419697,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "kubejs_logo.png",
+            "fingerprint": 658118443,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 3279136865,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 815703019,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "kubejs-common.mixins.json",
+            "fingerprint": 1145786819,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "kubejs-common-refmap.json",
+            "fingerprint": 4181443621,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 177427219,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "kubejs.mixins.json",
+            "fingerprint": 2809586977,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "kubejs.plugins.txt",
+            "fingerprint": 3743766032,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "kubejs-fabric-refmap.json",
+            "fingerprint": 826735418,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "dev",
+            "fingerprint": 1509731177,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "architectury_inject_KubeJS117_common_6ac7ee5d174d4a34ae102df90f5f0296",
+            "fingerprint": 525907625,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 266794371,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "kubejs-fabric-1605.3.10-build.9999.jar"
+      },
+      "dateInstalled": "2021-06-22T06:39:31.8991388Z",
+      "dateUpdated": "2021-06-22T06:39:31.9031384Z",
+      "dateLastUpdateAttempted": "2021-06-22T06:39:31.9031384Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 492782,
       "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
       "installedFile": {
@@ -12956,7 +13096,7 @@
       "dateInstalled": "2021-06-20T05:07:03.858261Z",
       "dateUpdated": "2021-06-21T04:25:14.172152Z",
       "dateLastUpdateAttempted": "2021-06-21T04:25:14.172152Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -15177,11 +15317,132 @@
     {
       "addonID": 427177,
       "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
-      "installedFile": null,
-      "dateInstalled": "2021-06-21T05:37:59.2014718Z",
-      "dateUpdated": "2021-06-21T05:37:59.2014718Z",
-      "dateLastUpdateAttempted": "2021-06-22T03:05:36.5576959Z",
-      "status": 3,
+      "installedFile": {
+        "id": 3359984,
+        "displayName": "Gobber2-Fabric-1.17-2.4.17.jar",
+        "fileName": "Gobber2-Fabric-1.17-2.4.17.jar",
+        "fileDate": "2021-06-21T17:05:46.573Z",
+        "fileLength": 536110,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3359/984/Gobber2-Fabric-1.17-2.4.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 66974053,
+            "addonId": 319057,
+            "type": 3,
+            "fileId": 3359984
+          },
+          {
+            "id": 66974052,
+            "addonId": 310111,
+            "type": 2,
+            "fileId": 3359984
+          },
+          {
+            "id": 66974054,
+            "addonId": 394941,
+            "type": 3,
+            "fileId": 3359984
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1171790412,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 18375977,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2970151520,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "gobber2.mixins.json",
+            "fingerprint": 1686840276,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4013802881,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 4083488268,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 882119986,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "Gobber2-Fabric-1.17-refmap.json",
+            "fingerprint": 3571089279,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2382576962,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2787695884,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017",
+            "gameVersion": "1.17",
+            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
+            "gameVersionName": "1.17"
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2372789,
+        "projectId": 427177,
+        "packageFingerprintId": 688879089,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3063993,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "Gobber2-Fabric-1.17-2.4.17.jar"
+      },
+      "dateInstalled": "2021-06-22T08:03:51.1408573Z",
+      "dateUpdated": "2021-06-22T08:03:51.1408573Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -15190,7 +15451,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 263420,

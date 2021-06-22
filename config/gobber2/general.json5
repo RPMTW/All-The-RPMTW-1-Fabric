@@ -169,9 +169,12 @@
 	   Armors
 	   ***********************
 	*/
-	"enableGobberPerks": true,
-	"enableNetherPerks": true,
-	"enableEndPerks": true,
+	"enableGobberAllPerks": true,
+	"enableGobberHealthPerks": true,
+	"enableNetherAllPerks": true,
+	"enableNetherHealthPerks": true,
+	"enableEndAllPerks": true,
+	"enableEndHealthPerks": true,
 	"enablePhantomProtection": true,
 	/* 
 	   
