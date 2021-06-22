@@ -6656,6 +6656,103 @@
       "installedTargets": null
     },
     {
+      "addonID": 487029,
+      "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
+      "installedFile": {
+        "id": 3343924,
+        "displayName": "[Fabric 1.17] Simple cobblestone generator 1.1.2",
+        "fileName": "simple-cobblestone-generator-1.1.2.jar",
+        "fileDate": "2021-06-08T18:55:05.393Z",
+        "fileLength": 103600,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3343/924/simple-cobblestone-generator-1.1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 3081979542,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "simple_cobblestone_generator.mixins.json",
+            "fingerprint": 1951467908,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 798371526,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1764583582,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3577317676,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "dev",
+            "fingerprint": 2821649843,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 959373174,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "simple-cobblestone-generator-1.1.2.jar"
+      },
+      "dateInstalled": "2021-06-22T08:33:22.9930073Z",
+      "dateUpdated": "2021-06-22T08:33:23.0010122Z",
+      "dateLastUpdateAttempted": "2021-06-22T08:33:23.0010122Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 440243,
       "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
       "installedFile": {
@@ -14720,6 +14817,121 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 315749,
+      "gameInstanceID": "28472755-e24f-412f-b046-1d305b6f683d",
+      "installedFile": {
+        "id": 3347517,
+        "displayName": "More Berries V. 1.4.2 (1.17.x) [Fabric]",
+        "fileName": "moreberries-1.4.2.jar",
+        "fileDate": "2021-06-11T09:50:32.117Z",
+        "fileLength": 384240,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3347/517/moreberries-1.4.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 389718,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 319057,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "resourcepacks",
+            "fingerprint": 2915719943,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mixins.moreberries.common.json",
+            "fingerprint": 1931551403,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2612439842,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 74351287,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 595629746,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "moreberries-refmap.json",
+            "fingerprint": 2527175389,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "moreberries",
+            "fingerprint": 3905479000,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1758030809,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "moreberries-1.4.2.jar"
+      },
+      "dateInstalled": "2021-06-22T08:25:38.4016407Z",
+      "dateUpdated": "2021-06-22T08:25:38.4036402Z",
+      "dateLastUpdateAttempted": "2021-06-22T08:25:38.4036402Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 378696,
