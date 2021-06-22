@@ -2,6 +2,60 @@
 	/* 
 	   
 	   ***********************
+	   Enable-Disable Rings
+	   ***********************
+	*/
+	"enableRingAbove": true,
+	"enableRingAirWalking": true,
+	"enableRingAscent": true,
+	"enableRingAttraction": true,
+	"enableRingBlink": true,
+	"enableRingCuring": true,
+	"enableRingDismissal": true,
+	"enableRingEnderchest": true,
+	"enableRingExplorer": true,
+	"enableRingFarmer": true,
+	"enableRingHaste": true,
+	"enableRingMiner": true,
+	"enableRingPhoenix": true,
+	"enableRingRepair": true,
+	"enableRingReturn": true,
+	"enableRingStealth": true,
+	"enableRingSunshine": true,
+	"enableRingSwiftness": true,
+	"enableRingTeleport": true,
+	"enableRingTraveler": true,
+	"enableRingVision": true,
+	"enableRingVoid": true,
+	/* 
+	   
+	   ***********************
+	   Enable-Disable Staffs
+	   ***********************
+	*/
+	"enableStaffClearing": true,
+	"enableStaffEnsnarement": true,
+	"enableStaffFarmer": true,
+	"enableStaffNature": true,
+	"enableStaffSniper": true,
+	"enableStaffStars": true,
+	"enableStaffTransformation": true,
+	/* 
+	   
+	   ***********************
+	   Enable-Disable Medallions
+	   ***********************
+	*/
+	"enableMedallionBreathing": true,
+	"enableMedallionLesserHealing": true,
+	"enableMedallionHealing": true,
+	"enableMedallionGreaterHealing": true,
+	"enableMedallionExp": true,
+	"enableMedallionHero": true,
+	"enableMedallionSea": true,
+	/* 
+	   
+	   ***********************
 	   Rings
 	   ***********************
 	*/
@@ -31,6 +85,10 @@
 	   ***********************
 	*/
 	"medallionExpMultiplier": 5,
+	"medallionLesserHealingAmount": 1,
+	"medallionHealingAmount": 2,
+	"medallionGreaterHealingAmount": 3,
+	"medallionBreathingWaterCheck": true,
 	/* 
 	   
 	   ***********************
