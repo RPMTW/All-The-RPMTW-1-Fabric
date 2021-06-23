@@ -12583,6 +12583,103 @@
       "installedTargets": null
     },
     {
+      "addonID": 407500,
+      "gameInstanceID": "f5fe61c4-7180-40de-866e-93a5c78bad7c",
+      "installedFile": {
+        "id": 3352501,
+        "displayName": "gate-of-babylon-1.5.0-1.17.jar",
+        "fileName": "gate-of-babylon-1.5.0-1.17.jar",
+        "fileDate": "2021-06-15T02:58:15.473Z",
+        "fileLength": 337729,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3352/501/gate-of-babylon-1.5.0-1.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 563863284,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 861980967,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "gate-of-babylon.mixins.json",
+            "fingerprint": 562314733,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1753240826,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1094842548,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3959341997,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "gate-of-babylon-refmap.json",
+            "fingerprint": 2464454355,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "draylar",
+            "fingerprint": 163815371,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2738427231,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "gate-of-babylon-1.5.0-1.17.jar"
+      },
+      "dateInstalled": "2021-06-23T15:14:18.1743197Z",
+      "dateUpdated": "2021-06-23T15:14:18.1813216Z",
+      "dateLastUpdateAttempted": "2021-06-23T15:14:18.1813216Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 365727,
       "gameInstanceID": "f5fe61c4-7180-40de-866e-93a5c78bad7c",
       "installedFile": {
