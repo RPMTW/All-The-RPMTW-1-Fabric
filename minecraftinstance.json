@@ -12345,6 +12345,112 @@
       "installedTargets": null
     },
     {
+      "addonID": 416406,
+      "gameInstanceID": "f5fe61c4-7180-40de-866e-93a5c78bad7c",
+      "installedFile": {
+        "id": 3133167,
+        "displayName": "1.0.1",
+        "fileName": "breakprogress-1.0.1.jar",
+        "fileDate": "2020-12-07T18:53:39.753Z",
+        "fileLength": 5924,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3133/167/breakprogress-1.0.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 440979,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 3182894684,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "breakprogress.mixin.json",
+            "fingerprint": 1780328580,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 183855678,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 394146236,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "breakprogress-refmap.json",
+            "fingerprint": 1827372333,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "io",
+            "fingerprint": 4266176748,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2469200469,
+        "gameVersion": [
+          "1.16.3",
+          "1.17",
+          "Fabric",
+          "1.16.5",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "breakprogress-1.0.1.jar"
+      },
+      "dateInstalled": "2021-06-23T15:06:19.5053516Z",
+      "dateUpdated": "2021-06-23T15:06:19.5363529Z",
+      "dateLastUpdateAttempted": "2021-06-23T15:06:19.5363529Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 459857,
       "gameInstanceID": "f5fe61c4-7180-40de-866e-93a5c78bad7c",
       "installedFile": {
