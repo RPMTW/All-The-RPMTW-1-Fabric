@@ -17207,6 +17207,122 @@
       "installedTargets": []
     },
     {
+      "addonID": 351393,
+      "gameInstanceID": "f5fe61c4-7180-40de-866e-93a5c78bad7c",
+      "installedFile": {
+        "id": 3346443,
+        "displayName": "1.17 HorseStatsVanilla-4.1.8 (Fabric)",
+        "fileName": "horse-stats-vanilla-4.1.8.jar",
+        "fileDate": "2021-06-10T13:37:47.653Z",
+        "fileLength": 1358934,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3346/443/horse-stats-vanilla-4.1.8.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 326869,
+            "type": 1,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 319057,
+            "type": 1,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 308702,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3912510600,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_horse-stats-vanilla",
+            "fingerprint": 3505932039,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2271947351,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "horsestatsvanilla.mixins.json",
+            "fingerprint": 3233357966,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3948139464,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "horse-stats-vanilla-refmap.json",
+            "fingerprint": 2675709277,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "monkey",
+            "fingerprint": 3080587670,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 603297532,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "horse-stats-vanilla-4.1.8.jar"
+      },
+      "dateInstalled": "2021-06-23T15:10:07.2481625Z",
+      "dateUpdated": "2021-06-23T15:10:07.265182Z",
+      "dateLastUpdateAttempted": "2021-06-23T15:10:07.265182Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 315749,
       "gameInstanceID": "f5fe61c4-7180-40de-866e-93a5c78bad7c",
       "installedFile": {
