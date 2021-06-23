@@ -21,11 +21,13 @@
     "expandWhenSneak": false,
     "colors": {
       "megane": 7408640,
-      "indrev": 3885790
+      "indrev": 3885790,
+      "techreborn": 8390656
     },
     "units": {
       "megane": "E",
-      "indrev": "LF"
+      "indrev": "LF",
+      "techreborn": "E"
     },
     "blacklist": [
       "appliedenergistics2:energy_acceptor"
