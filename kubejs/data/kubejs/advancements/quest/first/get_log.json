@@ -31,5 +31,8 @@
     [
       "get_log"
     ]
-  ]
+  ],
+  "rewards": {
+    "function": "kubejs:get_wooden_pickaxe"
+  }
 }
