@@ -2,5 +2,7 @@
     "advancements.quest.root.name": "进入 ATR 的世界",
     "advancements.quest.root.description":"游玩 ATR 模组包！",
     "advancements.quest.get_log.name":"获取原木",
-    "advancements.quest.get_log.description":"取得任一原木"
+    "advancements.quest.get_log.description":"取得任一原木",
+    "advancements.quest.get_rock.name":"这就是石粒？？？",
+    "advancements.quest.get_rock.description":"找到并检取一个石粒"
 }

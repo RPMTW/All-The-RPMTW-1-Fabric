@@ -1,0 +1,38 @@
+{
+  "parent": "kubejs:quest/first/get_log",
+  "display": {
+    "icon": {
+      "item": "rocks:rock"
+    },
+    "title": {
+      "translate": "advancements.quest.get_rock.name"
+    },
+    "description": {
+      "translate": "advancements.quest.get_rock.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_rock": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "rocks:rock"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_rock"
+    ]
+  ],
+  "rewards": {
+    "function": "kubejs:get_four_rock"
+  }
+}
