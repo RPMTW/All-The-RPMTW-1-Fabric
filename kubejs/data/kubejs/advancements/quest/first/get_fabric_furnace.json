@@ -1,0 +1,39 @@
+{
+    "parent": "kubejs:quest/first/get_log",
+    "display": {
+      "icon": {
+        "item": "fabric-furnaces:fabric_furnace"
+      },
+      "title": {
+        "translate": "advancements.quest.get_fabric_furnace.name"
+      },
+      "description": {
+        "translate": "advancements.quest.get_fabric_furnace.description"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "get_fabric_furnace": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "fabric-furnaces:fabric_furnace",
+              "count": {
+                "min": 1,
+                "max": 1
+            }
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "get_fabric_furnace"
+      ]
+    ]
+  }

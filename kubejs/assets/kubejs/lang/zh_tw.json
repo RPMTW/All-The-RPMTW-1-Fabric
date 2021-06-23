@@ -4,5 +4,13 @@
     "advancements.quest.get_log.name":"獲取原木",
     "advancements.quest.get_log.description":"取得任一原木",
     "advancements.quest.get_rock.name":"這就是石粒？？？",
-    "advancements.quest.get_rock.description":"找到並檢取一個石粒"
+    "advancements.quest.get_rock.description":"找到並檢取一個石粒",
+    "advancements.quest.get_iron.name": "鐵礦變成生的了?",
+    "advancements.quest.get_iron.description": "取得一個銅原礦",
+    "advancements.quest.get_copper.name": "銅礦好棒棒！",
+    "advancements.quest.get_copper.description": "取得一個銅原礦",
+    "advancements.quest.get_beds.name": "乖寶寶也要睡覺，對吧？",
+    "advancements.quest.get_beds.description": "製作任一種床",
+    "advancements.quest.get_fabric_furnace.name": "你正在玩的版本是？",
+    "advancements.quest.get_fabric_furnace.description": "製作一個織物熔爐"
 }

@@ -1,0 +1,39 @@
+{
+    "parent": "kubejs:quest/first/get_log",
+    "display": {
+      "icon": {
+        "item": "minecraft:raw_iron"
+      },
+      "title": {
+        "translate": "advancements.quest.get_iron.name"
+      },
+      "description": {
+        "translate": "advancements.quest.get_iron.description"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "get_iron": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "minecraft:raw_iron",
+              "count": {
+                "min": 1,
+                "max": 1
+            }
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "get_iron"
+      ]
+    ]
+  }

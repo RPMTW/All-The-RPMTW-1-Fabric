@@ -21,7 +21,11 @@
       "conditions": {
         "items": [
           {
-            "item": "rocks:rock"
+            "item": "rocks:rock",
+            "count": {
+              "min": 1,
+              "max": 1
+          }
           }
         ]
       }
