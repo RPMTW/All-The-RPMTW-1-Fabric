@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-06-23T13:44:54.5404002Z",
-  "playedCount": 42,
+  "lastPlayed": "2021-06-23T15:13:28.4741112Z",
+  "playedCount": 43,
   "manifest": {
     "minecraft": {
       "version": "1.17",
@@ -18164,6 +18164,105 @@
       "installedTargets": null
     },
     {
+      "addonID": 353641,
+      "gameInstanceID": "f5fe61c4-7180-40de-866e-93a5c78bad7c",
+      "installedFile": {
+        "id": 2992917,
+        "displayName": "jumpoverfences-1.16-1.17-0.0.3.jar",
+        "fileName": "jumpoverfences-1.16-0.0.3.jar",
+        "fileDate": "2020-06-30T11:12:21.153Z",
+        "fileLength": 6021,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2992/917/jumpoverfences-1.16-0.0.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 308769,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 270917438,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2984366874,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "jof.mixin.json",
+            "fingerprint": 3351111369,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "jumpoverfences-refmap.json",
+            "fingerprint": 1493072104,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2711936346,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3606627265,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1666886765,
+        "gameVersion": [
+          "1.16-Snapshot",
+          "1.16.3",
+          "1.16.1",
+          "1.17",
+          "Fabric",
+          "1.16",
+          "1.16.5",
+          "1.17-Snapshot",
+          "1.16.4",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "jumpoverfences-1.16-0.0.3.jar"
+      },
+      "dateInstalled": "2021-06-23T15:10:51.1041972Z",
+      "dateUpdated": "2021-06-23T15:10:51.1501987Z",
+      "dateLastUpdateAttempted": "2021-06-23T15:10:51.1501987Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 427177,
       "gameInstanceID": "f5fe61c4-7180-40de-866e-93a5c78bad7c",
       "installedFile": {
@@ -18872,6 +18971,103 @@
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 374274,
+      "gameInstanceID": "f5fe61c4-7180-40de-866e-93a5c78bad7c",
+      "installedFile": {
+        "id": 2934596,
+        "displayName": "[Fabric 1.14 - 1.17] v0.1.1",
+        "fileName": "yosbr-0.1.1.jar",
+        "fileDate": "2020-04-19T13:13:52.043Z",
+        "fileLength": 19206,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2934/596/yosbr-0.1.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 2083834721,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2732441101,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 490884621,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 2907895559,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1019026871,
+        "gameVersion": [
+          "1.16-Snapshot",
+          "1.16.3",
+          "1.15-Snapshot",
+          "1.16.1",
+          "1.14.1",
+          "1.14.4",
+          "1.17",
+          "1.14.3",
+          "Fabric",
+          "1.15",
+          "1.16",
+          "1.16.5",
+          "1.14",
+          "1.15.2",
+          "1.17-Snapshot",
+          "1.14.2",
+          "1.16.4",
+          "1.16.2",
+          "1.14-Snapshot",
+          "1.8.9",
+          "1.15.1"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "yosbr-0.1.1.jar"
+      },
+      "dateInstalled": "2021-06-23T15:13:01.4487816Z",
+      "dateUpdated": "2021-06-23T15:13:01.472785Z",
+      "dateLastUpdateAttempted": "2021-06-23T15:13:01.472785Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
