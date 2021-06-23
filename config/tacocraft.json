@@ -6,5 +6,7 @@
   //Amount of time tortillas take to cook (20 per second)
   "tortilla_cook_time": 300,
   //Amount of barbacoa you get from one penca
-  "barbacoa_per_penca": 7
+  "barbacoa_per_penca": 7,
+  //Chance of corn spawning. Is in 1 per x chunks
+  "corn_gen_chance": 300
 }
