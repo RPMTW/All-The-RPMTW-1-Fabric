@@ -15151,6 +15151,104 @@
       "installedTargets": null
     },
     {
+      "addonID": 435980,
+      "gameInstanceID": "f5fe61c4-7180-40de-866e-93a5c78bad7c",
+      "installedFile": {
+        "id": 3328690,
+        "displayName": "DualRiders-1.17-1.0.5.jar",
+        "fileName": "DualRiders-1.17-1.0.5.jar",
+        "fileDate": "2021-05-28T21:13:02.66Z",
+        "fileLength": 229168,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3328/690/DualRiders-1.17-1.0.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 1867285328,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3124699244,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "dual_riders.mixins.json",
+            "fingerprint": 1898013042,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1688246626,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "DualRiders-1.17-refmap.json",
+            "fingerprint": 611855437,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 1596984686,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 351677110,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "DualRiders-1.17-1.0.5.jar"
+      },
+      "dateInstalled": "2021-06-23T15:08:44.6989936Z",
+      "dateUpdated": "2021-06-23T15:08:44.7069963Z",
+      "dateLastUpdateAttempted": "2021-06-23T15:08:44.7069963Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 443782,
       "gameInstanceID": "f5fe61c4-7180-40de-866e-93a5c78bad7c",
       "installedFile": {
