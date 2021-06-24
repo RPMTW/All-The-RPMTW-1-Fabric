@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "item": "kubejs:atr_questbook"
+    },
+    "title": {
+      "translate": "advancements.quest.industry.root.name"
+    },
+    "description": {
+      "translate": "advancements.quest.industry.root.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "criteria": {
+    "quest_industry": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["kibe:pocket_crafting_table"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "quest_industry"
+    ]
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "parent": "kubejs:quest/first/get_log",
+  "parent": "kubejs:quest/basis/first/get_log",
   "display": {
     "icon": {
       "item": "comforts:sleeping_bag_white"

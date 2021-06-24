@@ -1,14 +1,14 @@
 {
-    "parent": "kubejs:quest/first/get_log",
+    "parent": "kubejs:quest/basis/first/get_rock",
     "display": {
       "icon": {
-        "item": "fabric-furnaces:fabric_furnace"
+        "item": "kibe:pocket_crafting_table"
       },
       "title": {
-        "translate": "advancements.quest.get_fabric_furnace.name"
+        "translate": "advancements.quest.get_pocket_crafting_table.name"
       },
       "description": {
-        "translate": "advancements.quest.get_fabric_furnace.description"
+        "translate": "advancements.quest.get_pocket_crafting_table.description"
       },
       "frame": "task",
       "show_toast": true,
@@ -16,12 +16,12 @@
       "hidden": false
     },
     "criteria": {
-      "get_fabric_furnace": {
+      "get_pocket_crafting_table": {
         "trigger": "minecraft:inventory_changed",
         "conditions": {
           "items": [
             {
-              "items": ["fabric-furnaces:fabric_furnace"]
+              "items": ["kibe:pocket_crafting_table"]
             }
           ]
         }
@@ -29,7 +29,7 @@
     },
     "requirements": [
       [
-        "get_fabric_furnace"
+        "get_pocket_crafting_table"
       ]
     ]
   }

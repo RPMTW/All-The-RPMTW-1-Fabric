@@ -1,14 +1,14 @@
 {
-    "parent": "kubejs:quest/first/get_log",
+    "parent": "kubejs:quest/basis/first/get_log",
     "display": {
       "icon": {
-        "item": "minecraft:raw_iron"
+        "item": "fabric-furnaces:fabric_furnace"
       },
       "title": {
-        "translate": "advancements.quest.get_iron.name"
+        "translate": "advancements.quest.get_fabric_furnace.name"
       },
       "description": {
-        "translate": "advancements.quest.get_iron.description"
+        "translate": "advancements.quest.get_fabric_furnace.description"
       },
       "frame": "task",
       "show_toast": true,
@@ -16,12 +16,12 @@
       "hidden": false
     },
     "criteria": {
-      "get_iron": {
+      "get_fabric_furnace": {
         "trigger": "minecraft:inventory_changed",
         "conditions": {
           "items": [
             {
-              "items": ["minecraft:raw_iron"]
+              "items": ["fabric-furnaces:fabric_furnace"]
             }
           ]
         }
@@ -29,7 +29,7 @@
     },
     "requirements": [
       [
-        "get_iron"
+        "get_fabric_furnace"
       ]
     ]
   }

@@ -1,14 +1,14 @@
 {
-    "parent": "kubejs:quest/first/get_rock",
+    "parent": "kubejs:quest/basis/first/get_log",
     "display": {
       "icon": {
-        "item": "kibe:pocket_crafting_table"
+        "item": "minecraft:raw_iron"
       },
       "title": {
-        "translate": "advancements.quest.get_pocket_crafting_table.name"
+        "translate": "advancements.quest.get_iron.name"
       },
       "description": {
-        "translate": "advancements.quest.get_pocket_crafting_table.description"
+        "translate": "advancements.quest.get_iron.description"
       },
       "frame": "task",
       "show_toast": true,
@@ -16,12 +16,12 @@
       "hidden": false
     },
     "criteria": {
-      "get_pocket_crafting_table": {
+      "get_iron": {
         "trigger": "minecraft:inventory_changed",
         "conditions": {
           "items": [
             {
-              "items": ["kibe:pocket_crafting_table"]
+              "items": ["minecraft:raw_iron"]
             }
           ]
         }
@@ -29,7 +29,7 @@
     },
     "requirements": [
       [
-        "get_pocket_crafting_table"
+        "get_iron"
       ]
     ]
   }

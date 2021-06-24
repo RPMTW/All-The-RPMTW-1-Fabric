@@ -1,5 +1,5 @@
 {
-  "parent": "kubejs:quest/root",
+  "parent": "kubejs:quest/basis/root",
   "display": {
     "icon": {
       "item": "minecraft:oak_log"
