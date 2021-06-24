@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-06-24T01:38:01.4925239Z",
-  "playedCount": 45,
+  "lastPlayed": "2021-06-24T06:10:58.4448847Z",
+  "playedCount": 46,
   "manifest": {
     "minecraft": {
       "version": "1.17",
@@ -7487,12 +7487,133 @@
       "installedTargets": null
     },
     {
-      "addonID": 450250,
+      "addonID": 433539,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
-      "installedFile": null,
-      "dateInstalled": "2021-06-24T05:21:46.9140112Z",
-      "dateUpdated": "2021-06-24T05:21:46.9190164Z",
-      "dateLastUpdateAttempted": "2021-06-24T05:21:46.9190164Z",
+      "installedFile": {
+        "id": 3347978,
+        "displayName": "comforts-fabric-0.0.4-1.17.jar",
+        "fileName": "comforts-fabric-0.0.4-1.17.jar",
+        "fileDate": "2021-06-11T17:21:03.183Z",
+        "fileLength": 385893,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3347/978/comforts-fabric-0.0.4-1.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 3347979,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 433538,
+            "type": 1,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 318449,
+            "type": 1,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 308702,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 319057,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2954714553,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "README.md",
+            "fingerprint": 3297141745,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "licenses",
+            "fingerprint": 2780256419,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2349399756,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2573718627,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "comforts.mixins.json",
+            "fingerprint": 1230060424,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "CHANGELOG.md",
+            "fingerprint": 2309396345,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3226216713,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "comforts-fabric-refmap.json",
+            "fingerprint": 3577484200,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "top",
+            "fingerprint": 3432982360,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3552541947,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "comforts-fabric-0.0.4-1.17.jar"
+      },
+      "dateInstalled": "2021-06-24T07:14:52.4369507Z",
+      "dateUpdated": "2021-06-24T07:14:52.4449499Z",
+      "dateLastUpdateAttempted": "2021-06-24T07:14:52.4449499Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
