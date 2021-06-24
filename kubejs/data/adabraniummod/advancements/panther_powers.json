@@ -1,14 +1,14 @@
 {
-  "parent": "kubejs:quest/first/get_log",
+  "parent": "adabraniummod:wakanda_forever",
   "display": {
     "icon": {
-      "item": "rocks:cobblestone_splitter"
+      "item": "adabraniummod:heart_shaped_herb"
     },
     "title": {
-      "translate": "advancements.quest.get_rock.name"
+      "translate": "advancements.adabranium.panther_powers.title"
     },
     "description": {
-      "translate": "advancements.quest.get_rock.description"
+      "translate": "advancements.adabranium.panther_powers.description"
     },
     "frame": "task",
     "show_toast": true,
@@ -16,12 +16,12 @@
     "hidden": false
   },
   "criteria": {
-    "get_rock": {
+    "vibranium_soup": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": ["rocks:cobblestone_splitter"]
+            "items": ["adabraniummod:vibranium_soup"]
           }
         ]
       }
@@ -29,10 +29,7 @@
   },
   "requirements": [
     [
-      "get_rock"
+      "vibranium_soup"
     ]
-  ],
-  "rewards": {
-    "function": "kubejs:get_four_rock"
-  }
+  ]
 }
