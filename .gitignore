@@ -22,3 +22,4 @@ usercache.json
 servers.dat_old
 realms_persistence.json
 config/fabric/indigo-renderer.properties
+native/libwincocoainput.dll

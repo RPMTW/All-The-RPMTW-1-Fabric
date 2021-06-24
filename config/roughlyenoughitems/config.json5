@@ -2,7 +2,7 @@
 	"basics": {
 		"favorites": [],
 		// Declares whether cheating mode is on.
-		"cheating": true,
+		"cheating": false,
 		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {
@@ -116,14 +116,14 @@
 		"theme": "DARK",
 		"layout": {
 			// Declares the position of the search field.
-			"searchFieldLocation": "CENTER",
+			"searchFieldLocation": "BOTTOM_SIDE",
 			// Declares the position of the config button.
 			"configButtonLocation": "LOWER",
 			// Declares whether the craftable filter button is enabled.
 			"enableCraftableOnlyButton": false
 		},
 		// Declares the appearance of recipe's border.
-		"recipeBorder": "DEFAULT",
+		"recipeBorder": "NONE",
 		// Declares whether entry panel is scrolled.
 		"scrollingEntryListWidget": false,
 		"horizontalEntriesBoundaries": 1.0,
