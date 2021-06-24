@@ -1,5 +1,5 @@
 {
-    "advancements.quest.root.name": "進入 ATR 的世界 (任務基礎篇)",
+    "advancements.quest.root.name": "ATR1 模組包任務：基礎篇",
     "advancements.quest.root.description":"遊玩 ATR 模組包！",
     "advancements.quest.get_log.name":"獲取原木",
     "advancements.quest.get_log.description":"取得任一原木",
@@ -17,5 +17,5 @@
     "advancements.quest.get_pocket_crafting_table.description": "製作一個袖珍合成台",
 
     "advancements.quest.industry.root.name":"ATR1 模組包任務：工業篇",
-    "advancements.quest.industry.root.description":""
+    "advancements.quest.industry.root.description":"獲得任何一種模組的錠"
 }
