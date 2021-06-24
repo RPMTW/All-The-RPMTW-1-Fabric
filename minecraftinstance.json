@@ -5113,6 +5113,109 @@
       "installedTargets": null
     },
     {
+      "addonID": 461316,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3351667,
+        "displayName": "Wireless Networks 1.1.1",
+        "fileName": "wirelessnetworks-1.1.1.jar",
+        "fileDate": "2021-06-14T13:50:54.663Z",
+        "fileLength": 439690,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3351/667/wirelessnetworks-1.1.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1567712846,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_wirelessnetworks",
+            "fingerprint": 1185419476,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 54703753,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3654601765,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "wirelessnetworks.mixins.json",
+            "fingerprint": 4219672426,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 537378733,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "wirelessnetworks-refmap.json",
+            "fingerprint": 2601639483,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 4042642734,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 695760766,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "wirelessnetworks-1.1.1.jar"
+      },
+      "dateInstalled": "2021-06-24T05:24:45.5148489Z",
+      "dateUpdated": "2021-06-24T05:24:45.5298401Z",
+      "dateLastUpdateAttempted": "2021-06-24T05:24:45.5298401Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 392805,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
@@ -8223,67 +8326,7 @@
     {
       "addonID": 396234,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
-      "installedFile": {
-        "id": 3347332,
-        "displayName": "PigPen-fabric-1.17-2.0.2.jar",
-        "fileName": "PigPen-fabric-1.17-2.0.2.jar",
-        "fileDate": "2021-06-11T03:55:55.29Z",
-        "fileLength": 3556,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3347/332/PigPen-fabric-1.17-2.0.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1117456940,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 1646447772,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1020826642,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 294105582,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 2439058456,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3056969295,
-        "gameVersion": [
-          "1.17",
-          "Fabric"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "PigPen-fabric-1.17-2.0.2.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-06-24T05:22:54.7415293Z",
       "dateUpdated": "2021-06-24T05:22:54.7934777Z",
       "dateLastUpdateAttempted": "2021-06-24T05:22:54.7934777Z",
@@ -14862,92 +14905,7 @@
     {
       "addonID": 391390,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
-      "installedFile": {
-        "id": 3358084,
-        "displayName": "identity-1.14.1-beta-1.17.jar",
-        "fileName": "identity-1.14.1-beta-1.17.jar",
-        "fileDate": "2021-06-20T04:17:05.42Z",
-        "fileLength": 528708,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3358/84/identity-1.14.1-beta-1.17.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1367768863,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 560443843,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "identity.mixins.json",
-            "fingerprint": 130116628,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "identity.accesswidener",
-            "fingerprint": 1673736967,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 4228351516,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1827787713,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 696059120,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "identity-refmap.json",
-            "fingerprint": 4066432435,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "draylar",
-            "fingerprint": 954778117,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2796043294,
-        "gameVersion": [
-          "1.17",
-          "Fabric",
-          "1.17-Snapshot"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "identity-1.14.1-beta-1.17.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-06-24T05:20:18.2827152Z",
       "dateUpdated": "2021-06-24T05:20:18.2907164Z",
       "dateLastUpdateAttempted": "2021-06-24T05:20:18.2907164Z",

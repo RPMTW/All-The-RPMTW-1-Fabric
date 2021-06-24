@@ -21,6 +21,9 @@
     "megane-fast-transfer-lib": {
       "badasintended.megane.impl.FastTransferLib": true
     },
+    "megane-wireless-networks": {
+      "badasintended.megane.impl.WirelessNetworks": true
+    },
     "megane-vanilla": {
       "badasintended.megane.impl.Minecraft": true
     }
