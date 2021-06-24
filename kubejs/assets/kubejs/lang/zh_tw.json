@@ -10,7 +10,9 @@
     "advancements.quest.get_copper.name": "銅礦好棒棒！",
     "advancements.quest.get_copper.description": "取得一個銅原礦",
     "advancements.quest.get_beds.name": "乖寶寶也要睡覺，對吧？",
-    "advancements.quest.get_beds.description": "製作任一種床",
+    "advancements.quest.get_beds.description": "製作任何一種睡袋/吊床",
     "advancements.quest.get_fabric_furnace.name": "你正在玩的版本是？",
-    "advancements.quest.get_fabric_furnace.description": "製作一個織物熔爐"
+    "advancements.quest.get_fabric_furnace.description": "製作一個織物熔爐",
+    "advancements.quest.get_pocket_crafting_table.name": "隨身合成！",
+    "advancements.quest.get_pocket_crafting_table.description": "製作一個袖珍合成台"
 }
