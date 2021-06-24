@@ -11094,6 +11094,102 @@
       "installedTargets": null
     },
     {
+      "addonID": 321663,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3355034,
+        "displayName": "fabric-branders-spawnermod-1.17-1.0.0.jar",
+        "fileName": "fabric-branders-spawnermod-1.0.0-1.17.0.jar",
+        "fileDate": "2021-06-17T12:00:02.643Z",
+        "fileLength": 83013,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3355/34/fabric-branders-spawnermod-1.0.0-1.17.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_spawnermod",
+            "fingerprint": 18375977,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "spawnermod.mixins.json",
+            "fingerprint": 4105688511,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2101613240,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2386304198,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1844375034,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "spawnermod-refmap.json",
+            "fingerprint": 1105788123,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 597799903,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2819875650,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "fabric-branders-spawnermod-1.0.0-1.17.0.jar"
+      },
+      "dateInstalled": "2021-06-24T05:18:20.1872013Z",
+      "dateUpdated": "2021-06-24T05:18:20.2071985Z",
+      "dateLastUpdateAttempted": "2021-06-24T05:18:20.2071985Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 419697,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
