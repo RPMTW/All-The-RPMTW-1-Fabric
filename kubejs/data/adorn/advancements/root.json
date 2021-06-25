@@ -9,6 +9,7 @@
     },
     "show_toast": false,
     "announce_to_chat": false,
+    "hidden": true,
     "background": "minecraft:textures/block/lime_wool.png"
   },
   "criteria": {

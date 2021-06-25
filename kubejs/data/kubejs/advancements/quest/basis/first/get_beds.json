@@ -54,6 +54,11 @@
               "comforts:hammock_yellow"
             ]
           }
+        ],
+        "items": [
+          {
+            "tag": "kibe:sleeping_bags"
+          }
         ]
       }
     }

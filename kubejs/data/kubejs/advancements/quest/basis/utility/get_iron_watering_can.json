@@ -1,14 +1,14 @@
 {
-    "parent": "kubejs:quest/basis/first/get_iron",
+    "parent": "kubejs:quest/basis/first/get_copper",
     "display": {
       "icon": {
-        "item": "minecraft:raw_copper"
+        "item": "croptosis:iron_watering_can"
       },
       "title": {
-        "translate": "advancements.quest.get_copper.name"
+        "translate": "advancements.quest.get_iron_watering_can.name"
       },
       "description": {
-        "translate": "advancements.quest.get_copper.description"
+        "translate": "advancements.quest.get_iron_watering_can.description"
       },
       "frame": "task",
       "show_toast": true,
@@ -16,12 +16,12 @@
       "hidden": false
     },
     "criteria": {
-      "get_copper": {
+      "get_iron_watering_can": {
         "trigger": "minecraft:inventory_changed",
         "conditions": {
           "items": [
             {
-              "items": ["minecraft:raw_copper"]
+              "items": ["croptosis:iron_watering_can"]
             }
           ]
         }
@@ -29,7 +29,10 @@
     },
     "requirements": [
       [
-        "get_copper"
+        "get_iron_watering_can"
       ]
-    ]
+    ],
+    "rewards": {
+      "function": "kubejs:get_bread"
+  }
   }

@@ -1,14 +1,14 @@
 {
-    "parent": "kubejs:quest/basis/first/get_iron",
+    "parent": "kubejs:quest/basis/first/get_rock",
     "display": {
       "icon": {
-        "item": "minecraft:raw_copper"
+        "item": "adorn:stone_torch"
       },
       "title": {
-        "translate": "advancements.quest.get_copper.name"
+        "translate": "advancements.quest.get_stone_torch.name"
       },
       "description": {
-        "translate": "advancements.quest.get_copper.description"
+        "translate": "advancements.quest.get_stone_torch.description"
       },
       "frame": "task",
       "show_toast": true,
@@ -16,12 +16,12 @@
       "hidden": false
     },
     "criteria": {
-      "get_copper": {
+      "get_stone_torch": {
         "trigger": "minecraft:inventory_changed",
         "conditions": {
           "items": [
             {
-              "items": ["minecraft:raw_copper"]
+              "items": ["adorn:stone_torch"]
             }
           ]
         }
@@ -29,7 +29,7 @@
     },
     "requirements": [
       [
-        "get_copper"
+        "get_stone_torch"
       ]
     ]
   }
