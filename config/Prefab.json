@@ -1,5 +1,5 @@
 {
-  "startingItem": "StartingHouse",
+  "startingItem": "Nothing",
   "enableLoftHouse": false,
   "includeSpawnersInMasher": true,
   "enableStructurePreview": true,
