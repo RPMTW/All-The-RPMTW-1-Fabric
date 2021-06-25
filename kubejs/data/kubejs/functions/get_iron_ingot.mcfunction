@@ -1,2 +1,2 @@
 give @s minecraft:iron_ingot 3
-tellraw @s ["恭喜你完成模組包任務「",{"translate":"advancements.quest.get_fabric_furnace.name","bold":true,"color":"aqua"},"」因此獲得獎勵「",{"translate":"item.minecraft.iron_ingot","bold":true,"color":"green"},"」"]
+tellraw @s ["恭喜你完成模組包任務「",{"translate":"advancements.quest.get_fabric_furnace.name","color":"aqua"},"」因此獲得獎勵「",{"translate":"item.minecraft.iron_ingot","color":"green"},"」"]

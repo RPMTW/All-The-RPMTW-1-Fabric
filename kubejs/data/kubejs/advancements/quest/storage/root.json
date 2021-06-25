@@ -1,27 +1,27 @@
 {
-  "parent": "adabraniummod:wakanda_forever",
   "display": {
     "icon": {
-      "item": "adabraniummod:heart_shaped_herb"
+      "item": "minecraft:chest"
     },
     "title": {
-      "translate": "advancements.adabranium.panther_powers.title"
+      "translate": "advancements.quest.storage.root.name"
     },
     "description": {
-      "translate": "advancements.adabranium.panther_powers.description"
+      "translate": "advancements.quest.storage.root.description"
     },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
-    "hidden": false
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
   },
   "criteria": {
-    "vibranium_soup": {
+    "quest_storage": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": ["adabraniummod:vibranium_soup"]
+            "items": ["minecraft:chest"]
           }
         ]
       }
@@ -29,7 +29,7 @@
   },
   "requirements": [
     [
-      "vibranium_soup"
+      "quest_storage"
     ]
   ]
 }

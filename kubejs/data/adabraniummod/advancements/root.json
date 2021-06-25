@@ -17,15 +17,8 @@
   },
   "criteria": {
     "adabraniumroot": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "items": ["minecraft:stone_pickaxe"]
-          }
-        ]
+      "trigger": "minecraft:impossible"
       }
-    }
   },
   "requirements": [
     [

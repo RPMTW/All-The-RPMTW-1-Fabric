@@ -62,5 +62,8 @@
     [
       "get_beds"
     ]
-  ]
+  ],
+  "rewards": {
+    "function": "kubejs:get_start_house"
+  }
 }
