@@ -75,6 +75,22 @@
         "achromatopsian_gallery_chance[def: 1.0]": 1.0,
         "protanopian_gallery_chance[def: 1.0]": 1.0
       }
+    },
+    "byg": {
+      "main": {
+        "brimstone_caverns_chance[def: 1.0]": 1.0,
+        "crimson_gardens_chance[def: 1.0]": 1.0,
+        "embur_bog_chance[def: 1.0]": 1.0,
+        "glowstone_gardens_chance[def: 1.0]": 1.0,
+        "magma_wastes_chance[def: 1.0]": 1.0,
+        "subzero_hypogeal_chance[def: 1.0]": 1.0,
+        "sythian_torrids_chance[def: 1.0]": 1.0,
+        "warped_desert_chance[def: 1.0]": 1.0,
+        "wailing_garth_chance[def: 1.0]": 1.0,
+        "withering_woods_chance[def: 1.0]": 1.0,
+        "weeping_mire_chance[def: 1.0]": 1.0,
+        "quartz_desert_chance[def: 1.0]": 1.0
+      }
     }
   }
 }

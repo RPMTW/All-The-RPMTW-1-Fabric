@@ -1,0 +1,95 @@
+{
+  "biomes": {
+    "byg:bulbis_gardens": {
+      "weight": 5,
+      "edge": "byg:bulbis_gardens_edge",
+      "hills": []
+    },
+    "byg:cryptic_wastes": {
+      "weight": 5,
+      "edge": "",
+      "hills": []
+    },
+    "byg:ethereal_islands": {
+      "weight": 5,
+      "edge": "byg:ethereal_clearing",
+      "hills": [
+        {
+          "name": "byg:ethereal_forest",
+          "weight": 10
+        },
+        {
+          "name": "byg:ethereal_clearing",
+          "weight": 5
+        }
+      ]
+    },
+    "byg:ivis_fields": {
+      "weight": 5,
+      "edge": "",
+      "hills": []
+    },
+    "byg:nightshade_forest": {
+      "weight": 5,
+      "edge": "",
+      "hills": []
+    },
+    "byg:purpur_peaks": {
+      "weight": 5,
+      "edge": "",
+      "hills": []
+    },
+    "byg:shattered_desert": {
+      "weight": 5,
+      "edge": "",
+      "hills": []
+    },
+    "byg:shulkren_forest": {
+      "weight": 5,
+      "edge": "",
+      "hills": []
+    },
+    "minecraft:end_barrens": {
+      "weight": 1,
+      "edge": "",
+      "hills": []
+    },
+    "minecraft:end_highlands": {
+      "weight": 5,
+      "edge": "",
+      "hills": []
+    },
+    "minecraft:end_midlands": {
+      "weight": 5,
+      "edge": "",
+      "hills": []
+    },
+    "promenade:dark_amaranth_forest": {
+      "weight": 5,
+      "edge": "",
+      "hills": []
+    },
+    "promenade:tall_dark_amaranth_forest": {
+      "weight": 5,
+      "edge": "",
+      "hills": []
+    }
+  },
+  "void-biomes": {
+    "byg:viscal_isles": {
+      "weight": 5,
+      "edge": "",
+      "hills": [
+        {
+          "name": "byg:shattered_viscal_isles",
+          "weight": 10
+        }
+      ]
+    },
+    "minecraft:small_end_islands": {
+      "weight": 5,
+      "edge": "",
+      "hills": []
+    }
+  }
+}

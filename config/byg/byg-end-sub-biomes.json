@@ -1,0 +1,18 @@
+{
+  "biomes": {
+    "byg:bulbis_gardens_edge": {
+      "edge": ""
+    },
+    "byg:ethereal_forest": {
+      "edge": ""
+    },
+    "byg:ethereal_clearing": {
+      "edge": ""
+    }
+  },
+  "void-biomes": {
+    "byg:shattered_viscal_isles": {
+      "edge": ""
+    }
+  }
+}
