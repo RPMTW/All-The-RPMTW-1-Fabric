@@ -1,5 +1,5 @@
 #CONFIG ONLY OPTIONS
-ignoreUpdate:293
+ignoreUpdate:294
 updateNotification:true
 settingsButton:false
 allowWrongWorldTeleportation:false

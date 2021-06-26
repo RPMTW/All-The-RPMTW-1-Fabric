@@ -3863,24 +3863,17 @@
       "addonID": 446253,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
-        "id": 3358889,
-        "displayName": "betterbiomeblend-1.17.0-1.1.4-fabric.jar",
-        "fileName": "betterbiomeblend-1.17.0-1.1.4-fabric.jar",
-        "fileDate": "2021-06-20T19:22:35.173Z",
-        "fileLength": 869892,
+        "id": 3364975,
+        "displayName": "betterbiomeblend-1.17.0-1.1.5-fabric.jar",
+        "fileName": "betterbiomeblend-1.17.0-1.1.5-fabric.jar",
+        "fileDate": "2021-06-26T01:11:39.537Z",
+        "fileLength": 869894,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3358/889/betterbiomeblend-1.17.0-1.1.4-fabric.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3364/975/betterbiomeblend-1.17.0-1.1.5-fabric.jar",
         "isAlternate": false,
         "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 306612,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
+        "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
@@ -3897,7 +3890,7 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 3813660626,
+            "fingerprint": 1799187768,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3927,12 +3920,12 @@
           },
           {
             "foldername": "fionathemortal",
-            "fingerprint": 1218954172,
+            "fingerprint": 3131851220,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2665704184,
+        "packageFingerprint": 1549064259,
         "gameVersion": [
           "1.17",
           "Fabric"
@@ -3946,12 +3939,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "betterbiomeblend-1.17.0-1.1.4-fabric.jar"
+        "FileNameOnDisk": "betterbiomeblend-1.17.0-1.1.5-fabric.jar"
       },
       "dateInstalled": "2021-06-21T03:45:17.4781942Z",
-      "dateUpdated": "2021-06-21T03:45:17.4841967Z",
-      "dateLastUpdateAttempted": "2021-06-26T07:38:55.7177652Z",
-      "status": 3,
+      "dateUpdated": "2021-06-26T13:58:59.2051165Z",
+      "dateLastUpdateAttempted": "2021-06-26T13:58:59.2051165Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12495,6 +12488,97 @@
       "installedTargets": null
     },
     {
+      "addonID": 317780,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3365443,
+        "displayName": "v1.14.4 for Fabric 1.17",
+        "fileName": "XaerosWorldMap_1.14.4_Fabric_1.17.jar",
+        "fileDate": "2021-06-26T14:10:46.54Z",
+        "fileLength": 534163,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3365/443/XaerosWorldMap_1.14.4_Fabric_1.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3595182102,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1441161927,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2113861832,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "xaero",
+            "fingerprint": 3852114064,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "xaeroworldmap.mixins.json",
+            "fingerprint": 1377308320,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "xaero_mod1.17-ref5-refmap.json",
+            "fingerprint": 4013381911,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3037754278,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "XaerosWorldMap_1.14.4_Fabric_1.17.jar"
+      },
+      "dateInstalled": "2021-06-26T14:27:21.9536946Z",
+      "dateUpdated": "2021-06-26T14:27:21.9636938Z",
+      "dateLastUpdateAttempted": "2021-06-26T14:27:21.9636938Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 461500,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
@@ -19023,6 +19107,116 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 423254,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3342334,
+        "displayName": "Cull Leaves 2.2.0 - 1.17",
+        "fileName": "cullleaves-2.2.0.jar",
+        "fileDate": "2021-06-07T16:47:31.777Z",
+        "fileLength": 48423,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3342/334/cullleaves-2.2.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 308702,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_cullleaves",
+            "fingerprint": 224405242,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "resourcepacks",
+            "fingerprint": 678418931,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2859630005,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cullleaves.mixins.json",
+            "fingerprint": 730849808,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3864897705,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cullleaves-refmap.json",
+            "fingerprint": 1493072104,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "eu",
+            "fingerprint": 944080594,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1428146386,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "cullleaves-2.2.0.jar"
+      },
+      "dateInstalled": "2021-06-26T11:36:38.3032923Z",
+      "dateUpdated": "2021-06-26T11:36:38.4062696Z",
+      "dateLastUpdateAttempted": "2021-06-26T11:36:38.4062696Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 378696,
