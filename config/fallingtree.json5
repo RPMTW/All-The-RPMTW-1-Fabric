@@ -33,9 +33,23 @@
 		   ABOVE_Y will break only blocks that are above the y value of the cut point.
 		*/
 		"detectionMode": "WHOLE_TREE",
-		// The maximum size of a tree. If there's more logs than this value the tree won't be cut.
+		// The maximum number of blocks to scan when trying to detect a tree. If there's more than this value the tree won't be cut.
+		"maxScanSize": 500,
+		// The maximum size of a tree. If there's more logs than this value the max size action will be applied.
 		"maxSize": 100,
-		/* The minimum amount of leaves that needs to be around the top most log in order for the mod to consider it a tree. 
+		/* What to do when the max size of a tree is reached. 
+		   ABORT: Tree won't be cut. 
+		   CUT: Tree will still be cut leaving some of it untouched.
+		*/
+		"maxSizeAction": "ABORT",
+		/* In what order logs are broken. 
+		   This only makes sense if maxSize < maxScanSize. 
+		   FURTHEST_FIRST: The furthest log will be broken first. 
+		   CLOSEST_FIRST: The closest log will be broken first. 
+		   INFO: Only in INSTANTANEOUS mode.
+		*/
+		"breakOrder": "FURTHEST_FIRST",
+		/* The minimum amount of leaves that needs to be around the top most log in order for the mod to consider it a tree.
 		   INFO: Only in INSTANTANEOUS mode.
 		*/
 		"minimumLeavesAroundRequired": 1,
@@ -55,6 +69,10 @@
 		"allowMixedLogs": false,
 		// When set to true nether tree warts (leaves) will be broken along with the trunk.
 		"breakNetherTreeWarts": true,
+		/* When set to true nether tree warts (leaves) will be broken with only one hit. 
+		   INFO: Only in SHIFT_DOWN mode.
+		*/
+		"instantlyBreakWarts": false,
 		/* This defines the area in which the tree is searched. If any branch is going out of this area it won't be cut. 
 		   This value is the radius of the area. 
 		   i.e. Setting a value of 2 will result on an area of 3x3 centered on the log broken. 
@@ -80,9 +98,11 @@
 		   INFO: This wins over the whitelist.
 		*/
 		"blacklisted": [],
-		// When set to true, when a tree is broken and the tool is about to break we will just break enough blocks so that the tool is left at 1 of durability.
+		/* When set to true, when a tree is broken and the tool is about to break we will just break enough blocks so that the tool is left at 1 of durability.
+		   INFO: Only in instantaneous mode
+		*/
 		"preserve": false,
-		/* When set to true, the mod will be activated no matter what you have in your hand (or empty hand). 
+		/* When set to true, the mod will be activated no matter what you have in your hand. 
 		   INFO: Blacklist still can be use to restrict some tools.
 		*/
 		"ignoreTools": false,
