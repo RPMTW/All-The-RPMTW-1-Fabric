@@ -1,8 +1,55 @@
 {
-    "advancements.quest.root.name": "Enter the world of ATR",
-    "advancements.quest.root.description":"Play the ATR Modpack!",
-    "advancements.quest.get_log.name":"Get Logs",
-    "advancements.quest.get_log.description":"Obtain any logs",
-    "advancements.quest.get_rock.name": "Is this the rock??" ,
-    "advancements.request.get_rock.description": "Find and retrieve a rock"
+  "advancements.quest.root.name": "Enter the world of ATR",
+  "advancements.quest.root.description": "Play the ATR Modpack!",
+
+  "advancements.quest.get_log.name": "Get Logs",
+  "advancements.quest.get_log.description": "Obtain any logs\n\nReaward: Wooden Pickaxe",
+
+  "advancements.quest.get_rock.name": "Is this a rock??",
+  "advancements.request.get_rock.description": "Find and retrieve a rock\n\nReaward: 4 rock",
+
+  "advancements.quest.get_iron.name": "Is iron becoming raw?",
+  "advancements.quest.get_iron.description": "Obtain raw iron\n\nReaward: None",
+
+  "advancements.quest.get_copper.name": "Copper ore is great!",
+  "advancements.quest.get_copper.description": "Obtain Raw Copper\n\nReaward: None",
+
+  "advancements.quest.get_beds.name": "Good baby need to sleep too!",
+  "advancements.quest.get_beds.description": "Craft any kind of Sleeping Bag or Hammock Cloth\n\nReaward: Starting House",
+
+  "advancements.quest.get_fabric_furnace.name": "What version are you playing?",
+  "advancements.quest.get_fabric_furnace.description": "Craft a Fabric Furnaces\n\nReaward: 3 Iron Ingot",
+
+  "advancements.quest.get_crafting_station.name": "This is a better Crafting Table!",
+  "advancements.quest.get_crafting_station.description": "Craft a Crafting Station",
+
+  "advancements.quest.get_pocket_crafting_table.name": "Craft wherever you are!",
+  "advancements.quest.get_pocket_crafting_table.description": "Craft a Pocket Crafting Table\n\nReaward: None",
+
+  "advancements.quest.get_stone_torch.name": "How on earth can stone burn?",
+  "advancements.quest.get_stone_torch.description": "Craft a Stone Torch\n\nReaward: None",
+
+  "advancements.quest.get_big_torch.name": "This is... that thick and big stick!",
+  "advancements.quest.get_big_torch.description": "Craft a Big Torch\n\nReaward: 10 Bread",
+
+  "advancements.quest.get_iron_watering_can.name": "Is this unlimited Bone Meal?",
+  "advancements.quest.get_iron_watering_can.description": "Craft a Iron Watering Can\n\nReaward: 10 Bread",
+
+  "advancements.quest.get_crystal_fabric_furnace.name": "Shiny stuff is so beautuful!",
+  "advancements.quest.get_crystal_fabric_furnace.description": "Craft a Crystal Fabric Furnaces\n\nReaward: 3 Iron Ingot",
+
+
+  "advancements.quest.industry.root.name": "Enter the world of ATR: Industry (WIP)",
+  "advancements.quest.industry.root.description": "Get any kind of ingot\n\nReaward: Revolutionary Guide",
+
+
+  "advancements.quest.storage.root.name": "Enter the world of ATR: Storage (WIP)",
+  "advancements.quest.storage.root.description": "Craft a chest\n\nReaward: None",
+
+  "advancements.quest.storage.iron_chest.name": "Upgrade chest (iron)",
+  "advancements.quest.storage.iron_chest.description": "Upgrade a Chest to Iron Chest\n\nReaward: 10 Bread",
+
+
+  "advancements.quest.adventure.root.name": "Enter the world of ATR: Adventure (WIP)",
+  "advancements.quest.adventure.root.description": "Enter a ATR world and start adventuring on Fabric!"
 }
