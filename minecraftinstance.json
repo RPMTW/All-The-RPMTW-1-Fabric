@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-06-26T04:42:18.9411351Z",
-  "playedCount": 50,
+  "lastPlayed": "2021-06-27T13:43:17.3218445Z",
+  "playedCount": 51,
   "manifest": {
     "minecraft": {
       "version": "1.17",
@@ -426,7 +426,7 @@
   "guid": "3b9ef942-0611-4151-8fc9-68ab383b3708",
   "gameTypeID": 432,
   "installPath": "D:\\APP\\CurseForge\\Instances\\ATR1 - All The RPMTW  1 [Fabric]\\",
-  "name": "ATR1 - All The RPMTW  1 [Fabric]",
+  "name": "ATR1 + Fabric",
   "cachedScans": [],
   "isValid": true,
   "lastPreviousMatchUpdate": "2021-06-26T06:29:24.6910492Z",
@@ -915,7 +915,7 @@
       "dateInstalled": "2021-06-16T04:04:36.8106036Z",
       "dateUpdated": "2021-06-25T15:34:32.0643361Z",
       "dateLastUpdateAttempted": "2021-06-25T15:34:32.0643361Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1548,7 +1548,7 @@
       "dateInstalled": "2021-06-23T15:05:05.4449566Z",
       "dateUpdated": "2021-06-25T15:34:18.9027527Z",
       "dateLastUpdateAttempted": "2021-06-25T15:34:18.9027527Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3437,6 +3437,84 @@
       "installedTargets": null
     },
     {
+      "addonID": 488581,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3362210,
+        "displayName": "NewCaves-2.1",
+        "fileName": "NewCaves.jar",
+        "fileDate": "2021-06-23T15:16:54.44Z",
+        "fileLength": 2228091,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3362/210/NewCaves.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "assets",
+            "fingerprint": 2603649852,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1176126490,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2279085167,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 793306636,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1202835733,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2651366969,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "NewCaves.jar"
+      },
+      "dateInstalled": "2021-06-27T13:42:18.4705177Z",
+      "dateUpdated": "2021-06-27T13:42:18.4885183Z",
+      "dateLastUpdateAttempted": "2021-06-27T13:42:18.4885183Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 361585,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
@@ -3625,7 +3703,7 @@
       "dateInstalled": "2021-06-23T15:05:05.4509525Z",
       "dateUpdated": "2021-06-25T15:34:22.2929486Z",
       "dateLastUpdateAttempted": "2021-06-25T15:34:22.2929486Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4074,6 +4152,90 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 320932,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3365523,
+        "displayName": "[1.17.x] Flesh 2 Leather [FABRIC]",
+        "fileName": "1.17-flesh2leather-1.0.2.jar",
+        "fileDate": "2021-06-26T16:04:21.247Z",
+        "fileLength": 9830,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3365/523/1.17-flesh2leather-1.0.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 1071888028,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1838518907,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1950770719,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 224437885,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2391224297,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1949987181,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "1.17-flesh2leather-1.0.2.jar"
+      },
+      "dateInstalled": "2021-06-27T13:43:28.7123682Z",
+      "dateUpdated": "2021-06-27T13:43:28.7736235Z",
+      "dateLastUpdateAttempted": "2021-06-27T13:43:28.7736235Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 390557,
@@ -5358,6 +5520,110 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 454086,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3343772,
+        "displayName": "elementalcreepers-1.4.0.jar",
+        "fileName": "elementalcreepers-1.4.0.jar",
+        "fileDate": "2021-06-08T17:51:17.933Z",
+        "fileLength": 514887,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3343/772/elementalcreepers-1.4.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 3116042604,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 227390579,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "elementalcreepers.mixins.json",
+            "fingerprint": 2872094957,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2246595285,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1778565932,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "elementalcreepers-refmap.json",
+            "fingerprint": 3103820392,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 532279204,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1928159766,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "elementalcreepers-1.4.0.jar"
+      },
+      "dateInstalled": "2021-06-27T13:49:00.0143565Z",
+      "dateUpdated": "2021-06-27T13:49:00.0263614Z",
+      "dateLastUpdateAttempted": "2021-06-27T13:49:00.0263614Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 491407,
@@ -9316,7 +9582,7 @@
       "dateInstalled": "2021-06-23T15:05:05.4639569Z",
       "dateUpdated": "2021-06-25T15:34:18.837754Z",
       "dateLastUpdateAttempted": "2021-06-25T15:34:18.837754Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10523,7 +10789,7 @@
       "dateInstalled": "2021-06-23T15:05:05.4479539Z",
       "dateUpdated": "2021-06-25T15:34:19.033755Z",
       "dateLastUpdateAttempted": "2021-06-25T15:34:19.033755Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12355,7 +12621,7 @@
       "dateInstalled": "2021-06-23T15:05:05.4549543Z",
       "dateUpdated": "2021-06-25T15:34:20.2037841Z",
       "dateLastUpdateAttempted": "2021-06-25T15:34:20.2037841Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12576,7 +12842,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 461500,
@@ -12911,7 +13177,7 @@
       "dateInstalled": "2021-06-14T15:50:55.1339092Z",
       "dateUpdated": "2021-06-25T15:34:27.1475653Z",
       "dateLastUpdateAttempted": "2021-06-25T15:34:27.1475653Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -19216,7 +19482,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 378696,
@@ -19794,7 +20060,7 @@
       "dateInstalled": "2021-06-22T14:39:40.9002412Z",
       "dateUpdated": "2021-06-25T15:34:29.8941599Z",
       "dateLastUpdateAttempted": "2021-06-25T15:34:29.8941599Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -20807,7 +21073,7 @@
       "dateInstalled": "2021-06-25T15:37:58.0511756Z",
       "dateUpdated": "2021-06-25T15:37:58.0541779Z",
       "dateLastUpdateAttempted": "2021-06-25T15:37:58.0541779Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -21126,6 +21392,97 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 452832,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3346466,
+        "displayName": "CompostableRottenFlesh 1.17 - 1.0.0",
+        "fileName": "compostable-rottenflesh-1.0.0.jar",
+        "fileDate": "2021-06-10T13:58:24.253Z",
+        "fileLength": 75646,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3346/466/compostable-rottenflesh-1.0.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_compostable-rottenflesh",
+            "fingerprint": 18375977,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1575954443,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1309757509,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "compostable-rottenflesh.mixins.json",
+            "fingerprint": 588389169,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "compostable-rottenflesh-refmap.json",
+            "fingerprint": 3556140846,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 3793532209,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3422896038,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "compostable-rottenflesh-1.0.0.jar"
+      },
+      "dateInstalled": "2021-06-27T13:43:33.9311209Z",
+      "dateUpdated": "2021-06-27T13:43:33.952108Z",
+      "dateLastUpdateAttempted": "2021-06-27T13:43:33.952108Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 355914,
