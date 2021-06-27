@@ -1,14 +1,14 @@
 {
-    "parent": "kubejs:quest/basis/utility/get_crafting_table",
+    "parent": "kubejs:quest/basis/utility/get_crafting_station",
     "display": {
       "icon": {
-        "item": "improved-stations:crafting_station"
+        "item": "improved-stations:crafting_station_slab"
       },
       "title": {
-        "translate": "advancements.quest.get_crafting_station.name"
+        "translate": "advancements.quest.get_crafting_station_slab.name"
       },
       "description": {
-        "translate": "advancements.quest.get_crafting_station.description"
+        "translate": "advancements.quest.get_crafting_station_slab.description"
       },
       "frame": "task",
       "show_toast": true,
@@ -16,12 +16,12 @@
       "hidden": false
     },
     "criteria": {
-      "get_crafting_station": {
+      "get_crafting_station_slab": {
         "trigger": "minecraft:inventory_changed",
         "conditions": {
           "items": [
             {
-              "items": ["improved-stations:crafting_station"]
+              "items": ["improved-stations:crafting_station_slab"]
             }
           ]
         }
@@ -29,7 +29,7 @@
     },
     "requirements": [
       [
-        "get_crafting_station"
+        "get_crafting_station_slab"
       ]
     ]
   }

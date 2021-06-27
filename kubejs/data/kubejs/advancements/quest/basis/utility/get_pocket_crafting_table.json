@@ -1,5 +1,5 @@
 {
-    "parent": "kubejs:quest/basis/utility/get_crafting_station",
+    "parent": "kubejs:quest/basis/utility/get_crafting_table",
     "display": {
       "icon": {
         "item": "kibe:pocket_crafting_table"
