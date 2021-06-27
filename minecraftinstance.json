@@ -12848,40 +12848,40 @@
       "addonID": 461500,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
-        "id": 3359440,
-        "displayName": "Fabric-1.1.8+1.17",
-        "fileName": "RPMTW-Update-Mod-Fabric-1.17-1.1.8.jar",
-        "fileDate": "2021-06-21T05:43:46.54Z",
-        "fileLength": 1248018,
+        "id": 3366563,
+        "displayName": "Fabric-1.1.9+1.17",
+        "fileName": "RPMTW-Update-Mod-Fabric-1.17-1.1.9.jar",
+        "fileDate": "2021-06-27T14:33:26.49Z",
+        "fileLength": 1247506,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3359/440/RPMTW-Update-Mod-Fabric-1.17-1.1.8.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3366/563/RPMTW-Update-Mod-Fabric-1.17-1.1.9.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 66941096,
-            "addonId": 317121,
-            "type": 1,
-            "fileId": 3359440
-          },
-          {
-            "id": 66941099,
-            "addonId": 308702,
-            "type": 2,
-            "fileId": 3359440
-          },
-          {
-            "id": 66941098,
-            "addonId": 306612,
-            "type": 3,
-            "fileId": 3359440
-          },
-          {
-            "id": 66941097,
+            "id": 0,
             "addonId": 319057,
             "type": 1,
-            "fileId": 3359440
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 317121,
+            "type": 1,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 308702,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
           }
         ],
         "isAvailable": true,
@@ -12889,93 +12889,75 @@
           {
             "foldername": "META-INF",
             "fingerprint": 4236565048,
-            "type": 3,
+            "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "RpmtwUpdateMod.mixins.json",
             "fingerprint": 1380796542,
-            "type": 3,
+            "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "RpmtwUpdateMod.accesswidener",
             "fingerprint": 3609382491,
-            "type": 3,
+            "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 826788857,
-            "type": 3,
+            "fingerprint": 1397928500,
+            "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
             "fingerprint": 3427511904,
-            "type": 3,
+            "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "RPMTW-Update-Mod-Fabric-1.17-refmap.json",
             "fingerprint": 3238645033,
-            "type": 3,
+            "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "siongsng",
-            "fingerprint": 837947046,
-            "type": 3,
+            "fingerprint": 3313847461,
+            "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 918433332,
+        "packageFingerprint": 798034690,
         "gameVersion": [
           "1.17",
           "Fabric"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000017",
-            "gameVersion": "1.17",
-            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
-            "gameVersionName": "1.17"
-          },
-          {
-            "gameVersionPadded": "0",
-            "gameVersion": "",
-            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-            "gameVersionName": "Fabric"
-          }
-        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2372103,
-        "projectId": 461500,
-        "packageFingerprintId": 688519675,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3062590,
-        "gameVersionId": 7499,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "RPMTW-Update-Mod-Fabric-1.17-1.1.8.jar"
+        "FileNameOnDisk": "RPMTW-Update-Mod-Fabric-1.17-1.1.9.jar"
       },
-      "dateInstalled": "2021-06-23T15:05:05.4519536Z",
-      "dateUpdated": "2021-06-23T15:05:05.4519536Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateInstalled": "2021-06-27T14:36:34.0580639Z",
+      "dateUpdated": "2021-06-27T14:36:34.0660694Z",
+      "dateLastUpdateAttempted": "2021-06-27T14:36:34.0660694Z",
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 437552,
