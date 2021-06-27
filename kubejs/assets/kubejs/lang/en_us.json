@@ -6,7 +6,7 @@
   "advancements.quest.get_log.description": "Obtain any logs\n\nReaward: Wooden Pickaxe",
 
   "advancements.quest.get_rock.name": "Is this a rock??",
-  "advancements.request.get_rock.description": "Find and retrieve a rock\n\nReaward: 4 rock",
+  "advancements.quest.get_rock.description": "Find and retrieve a rock\n\nReaward: 4 rock",
 
   "advancements.quest.get_iron.name": "Is iron becoming raw?",
   "advancements.quest.get_iron.description": "Obtain raw iron\n\nReaward: None",
@@ -38,6 +38,15 @@
   "advancements.quest.get_crystal_fabric_furnace.name": "Shiny stuff is so beautuful!",
   "advancements.quest.get_crystal_fabric_furnace.description": "Craft a Crystal Fabric Furnaces\n\nReaward: 3 Iron Ingot",
 
+  "advancements.quest.get_crafting_station_slab.name": "Another Crafting Slab?",
+  "advancements.quest.get_crafting_station_slab.description": "Craft a Crafting Station Slab\n\nReaward: None",
+
+  "advancements.quest.get_crafting_table.name": "Our good ol' crafting table!",
+  "advancements.quest.get_crafting_table.description": "Craft a Crafting Table\n\nReaward: None",
+
+
+  "advancements.quest.get_crafting_table_slab.name": "Crafting Slab?",
+  "advancements.quest.get_crafting_table_slab.description": "Craft a Crafting Table Slab\n\nReaward: None",
 
   "advancements.quest.industry.root.name": "Enter the world of ATR: Industry (WIP)",
   "advancements.quest.industry.root.description": "Get any kind of ingot\n\nReaward: Revolutionary Guide",
