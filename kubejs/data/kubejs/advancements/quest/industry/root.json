@@ -82,5 +82,8 @@
     [
       "quest_industry"
     ]
-  ]
+  ],
+  "rewards": {
+    "function": "kubejs:get_book"
+  }
 }
