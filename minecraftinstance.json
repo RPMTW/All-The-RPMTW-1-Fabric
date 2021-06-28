@@ -17840,6 +17840,97 @@
       "installedTargets": null
     },
     {
+      "addonID": 400929,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3367227,
+        "displayName": "can-i-mine-this-block-1.1.0.jar",
+        "fileName": "can-i-mine-this-block-1.1.0.jar",
+        "fileDate": "2021-06-28T03:17:04.277Z",
+        "fileLength": 17329,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3367/227/can-i-mine-this-block-1.1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 1719426462,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1914700510,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3741073801,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mixin.cimtb.json",
+            "fingerprint": 4140823817,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "can-i-mine-this-block-refmap.json",
+            "fingerprint": 3695876839,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 2816905689,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1998408873,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "can-i-mine-this-block-1.1.0.jar"
+      },
+      "dateInstalled": "2021-06-28T06:59:02.8562673Z",
+      "dateUpdated": "2021-06-28T06:59:02.9133068Z",
+      "dateLastUpdateAttempted": "2021-06-28T06:59:02.9133068Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 341888,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
