@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "kubejs:atr_questbook"
+      "item": "improved-stations:crafting_station"
     },
     "title": {
       "translate": "advancements.quest.root.name"
