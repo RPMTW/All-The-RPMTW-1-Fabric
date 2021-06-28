@@ -1,5 +1,5 @@
 {
-    "parent": "kubejs:quest/basis/first/get_rock",
+    "parent": "kubejs:quest/basis/first/get_cobblestone",
     "display": {
       "icon": {
         "item": "adorn:stone_torch"

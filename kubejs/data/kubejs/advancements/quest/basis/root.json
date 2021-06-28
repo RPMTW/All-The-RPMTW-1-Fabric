@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "kubejs:atr_questbook"
+      "item": "minecraft:dirt"
     },
     "title": {
       "translate": "advancements.quest.root.name"

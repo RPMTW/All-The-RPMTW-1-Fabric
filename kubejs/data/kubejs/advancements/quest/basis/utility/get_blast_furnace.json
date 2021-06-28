@@ -1,14 +1,14 @@
 {
-    "parent": "kubejs:quest/basis/first/get_iron",
+    "parent": "kubejs:quest/basis/utility/get_furnace",
     "display": {
       "icon": {
-        "item": "croptosis:iron_watering_can"
+        "item": "minecraft:blast_furnace"
       },
       "title": {
-        "translate": "advancements.quest.get_iron_watering_can.name"
+        "translate": "advancements.quest.get_blast_furnace.name"
       },
       "description": {
-        "translate": "advancements.quest.get_iron_watering_can.description"
+        "translate": "advancements.quest.get_blast_furnace.description"
       },
       "frame": "task",
       "show_toast": true,
@@ -16,12 +16,12 @@
       "hidden": false
     },
     "criteria": {
-      "get_iron_watering_can": {
+      "get_blast_furnace": {
         "trigger": "minecraft:inventory_changed",
         "conditions": {
           "items": [
             {
-              "items": ["croptosis:iron_watering_can"]
+              "items": ["minecraft:blast_furnace"]
             }
           ]
         }
@@ -29,10 +29,7 @@
     },
     "requirements": [
       [
-        "get_iron_watering_can"
+        "get_blast_furnace"
       ]
-    ],
-    "rewards": {
-      "function": "kubejs:get_bread"
-  }
+    ]
   }
