@@ -5472,6 +5472,96 @@
       "installedTargets": []
     },
     {
+      "addonID": 498465,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3366911,
+        "displayName": "Fabric Enchantments 0.1.0 (1.17)",
+        "fileName": "fabric-enchantments-0.1.0.jar",
+        "fileDate": "2021-06-27T20:20:34.93Z",
+        "fileLength": 390634,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3366/911/fabric-enchantments-0.1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_fabric-enchantments",
+            "fingerprint": 1540300968,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabricenchantments.mixins.json",
+            "fingerprint": 984494826,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 232635895,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1158848591,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric-enchantments-refmap.json",
+            "fingerprint": 1613109935,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "safro",
+            "fingerprint": 606791232,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 4235378107,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "fabric-enchantments-0.1.0.jar"
+      },
+      "dateInstalled": "2021-06-29T13:16:26.6067035Z",
+      "dateUpdated": "2021-06-29T13:16:26.615705Z",
+      "dateLastUpdateAttempted": "2021-06-29T13:16:26.615705Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 364426,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
