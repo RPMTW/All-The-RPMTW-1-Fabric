@@ -9,6 +9,7 @@ patched_shaders/
 shaderpacks/
 XaeroWaypoints/
 not-enough-crashes/
+XaeroWorldMap/
 logs
 .fabric
 .curseclient

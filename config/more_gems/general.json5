@@ -29,7 +29,7 @@
 	"untouchableDamage": 7,
 	"shulkerBladeDurationTicks": 300,
 	/* ********************************
-	   Paxels, Hammers, & Excavators
+	   Bows, Paxels, Hammers, & Excavators
 	   ********************************
 	*/
 	"extraToolsEnable": true,

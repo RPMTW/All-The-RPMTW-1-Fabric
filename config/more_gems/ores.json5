@@ -5,7 +5,6 @@
 	*/
 	"citrineEnable": true,
 	"citrineVeinSize": 4,
-	"citrineMinLevel": 0,
 	"citrineMaxLevel": 70,
 	"citrinePerChunk": 12,
 	/* ***********************
@@ -14,7 +13,6 @@
 	*/
 	"tourmalineEnable": true,
 	"tourmalineVeinSize": 4,
-	"tourmalineMinLevel": 0,
 	"tourmalineMaxLevel": 70,
 	"tourmalinePerChunk": 12,
 	/* ***********************
@@ -23,7 +21,6 @@
 	*/
 	"amethystEnable": true,
 	"amethystVeinSize": 4,
-	"amethystMinLevel": 0,
 	"amethystMaxLevel": 60,
 	"amethystPerChunk": 12,
 	/* ***********************
@@ -32,7 +29,6 @@
 	*/
 	"topazEnable": true,
 	"topazVeinSize": 4,
-	"topazMinLevel": 0,
 	"topazMaxLevel": 60,
 	"topazPerChunk": 12,
 	/* ***********************
@@ -41,7 +37,6 @@
 	*/
 	"alexandriteEnable": true,
 	"alexandriteVeinSize": 4,
-	"alexandriteMinLevel": 0,
 	"alexandriteMaxLevel": 60,
 	"alexandritePerChunk": 12,
 	/* ***********************
@@ -50,7 +45,6 @@
 	*/
 	"sapphireEnable": true,
 	"sapphireVeinSize": 4,
-	"sapphireMinLevel": 0,
 	"sapphireMaxLevel": 30,
 	"sapphirePerChunk": 12,
 	/* ***********************
@@ -59,7 +53,6 @@
 	*/
 	"rubyEnable": true,
 	"rubyVeinSize": 4,
-	"rubyMinLevel": 0,
 	"rubyMaxLevel": 30,
 	"rubyPerChunk": 12,
 	/* ***********************
@@ -68,7 +61,6 @@
 	*/
 	"conrundumEnable": true,
 	"conrundumVeinSize": 3,
-	"conrundumMinLevel": 0,
 	"conrundumMaxLevel": 20,
 	"conrundumPerChunk": 12,
 	/* ***********************
@@ -77,7 +69,6 @@
 	*/
 	"carbonadoEnable": true,
 	"carbonadoVeinSize": 3,
-	"carbonadoMinLevel": 0,
 	"carbonadoMaxLevel": 15,
 	"carbonadoPerChunk": 12
 }

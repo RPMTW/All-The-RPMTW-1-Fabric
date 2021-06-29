@@ -366,6 +366,9 @@
     "striped_log_rubeus_striped_bark_rubeus[def: true]": true,
     "striped_log_stalagnate_striped_bark_stalagnate[def: true]": true,
     "striped_log_wart_striped_bark_wart[def: true]": true,
-    "striped_log_willow_striped_bark_willow[def: true]": true
+    "striped_log_willow_striped_bark_willow[def: true]": true,
+    "cincinnasite_excavator[def: true]": true,
+    "nether_ruby_excavator[def: true]": true,
+    "cincinnasite_excavator_diamond[def: true]": true
   }
 }

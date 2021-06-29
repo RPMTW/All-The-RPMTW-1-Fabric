@@ -40,6 +40,10 @@
 			"exportImageKeybind": {
 				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
+			},
+			"previousScreenKeybind": {
+				"keyCode": "key.keyboard.backspace",
+				"modifier": 0
 			}
 		},
 		// Declares whether REI is visible.

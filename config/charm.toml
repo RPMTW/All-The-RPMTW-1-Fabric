@@ -56,8 +56,6 @@
 "CoralSquids Enabled" = true
 #Combine a tool or armor with an amethyst shard on an anvil to reduce its repair cost.
 "DecreaseRepairCost Enabled" = true
-#Right-clicking dirt with a shovel turns it into grass path.
-"DirtToPath Enabled" = true
 #Ebony is a very dark grey wood. Ebony trees can be found in savanna biomes.
 "EbonyWood Enabled" = true
 #Right-click on a sign with an empty hand to edit its text.
@@ -107,6 +105,8 @@
 #Playing a record in a jukebox stops background music from playing at the same.
 #Creative music tracks may also play in survival mode.
 "MusicImprovements Enabled" = true
+#Automatically opens double doors.
+"OpenDoubleDoors Enabled" = true
 #Parrots stay on your shoulder when jumping and falling. Crouch to make them dismount.
 "ParrotsStayOnShoulder Enabled" = true
 #Right-clicking on a grass path block with a hoe turns it back into dirt.
@@ -117,6 +117,8 @@
 "PortableCrafting Enabled" = false
 #Causes all hoglins in the vicinity to run away from you.
 "PotionOfHogsbane Enabled" = true
+#Drink to give yourself the glowing effect or use as a splash potion to light up other entities.
+"PotionOfPiercingVision Enabled" = true
 #Shows particles at ground level to help locate ores below you.
 "PotionOfSpelunking Enabled" = true
 #A tool that rotates blocks. When held in offhand it locks block orientation when placing.
