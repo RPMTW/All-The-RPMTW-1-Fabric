@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:dirt"
+      "item": "improved-stations:crafting_station"
     },
     "title": {
       "translate": "advancements.quest.root.name"
