@@ -24,13 +24,34 @@
     "advancements.quest.get_iron_watering_can.name": "這個484無限骨粉？",
     "advancements.quest.get_iron_watering_can.description": "製作一個鐵製澆水壺\n\n獎勵：十個麵包",
     "advancements.quest.get_crystal_fabric_furnace.name": "亮晶晶der豪漂亮",
-    "advancements.quest.get_crystal_fabric_furnace.description": "製作一個水晶織物熔爐\n\n三個鐵錠",
+    "advancements.quest.get_crystal_fabric_furnace.description": "製作一個水晶織物熔爐\n\n獎勵：三個鐵錠",
     "advancements.quest.get_crafting_station_slab.name": "另一種合成台半磚?",
     "advancements.quest.get_crafting_station_slab.description": "製作一個工作站半磚\n\n獎勵：無",
     "advancements.quest.get_crafting_table.name": "我們的好朋友居然是...？",
     "advancements.quest.get_crafting_table.description": "製作一個合成台\n\n獎勵：無",
     "advancements.quest.get_crafting_table_slab.name": "一半的合成台，這還能用嗎？",
     "advancements.quest.get_crafting_table_slab.description": "製作一個合成台半磚\n\n獎勵：無",
+    "advancements.quest.get_cobblestone.name": "這不是我的方塊",
+    "advancements.quest.get_cobblestone.description": "挖掘一個石頭並獲得鵝卵石\n\n獎勵：石鎬",
+  
+    "advancements.quest.get_furnace.name": "原味的熔爐",
+    "advancements.quest.get_furnace.description": "製作一個熔爐\n\n獎勵：三個鐵錠",
+  
+    "advancements.quest.get_furnace_slab.name": "另一種熔爐半磚?",
+    "advancements.quest.get_furnace_slab.description": "製作一個熔爐半磚\n\n獎勵：無",
+  
+    "advancements.quest.get_smoker.name": "煮菜時間",
+    "advancements.quest.get_smoker.description" :"製作一個燻煙爐\n\n獎勵：無",
+  
+    "advancements.quest.get_smoker_slab.name": "煮菜時間但在半磚上...?",
+    "advancements.quest.get_smoker_slab.description": "製作一個燻煙爐半磚\n\n獎勵：無",
+  
+    "advancements.quest.get_blast_furnace.name":"更快的礦物爐",
+    "advancements.quest.get_blast_furnace.description":"製作一個高爐\n\n獎勵：無",
+  
+    "advancements.quest.get_blast_furnace_slab.name":"這裡還有多少半磚檯?",
+    "advancements.quest.get_blast_furnace_slab.description":"製作一個高爐半磚\n\n獎勵：無",
+
     "advancements.quest.industry.root.name": "ATR1 模組包任務：工業篇 (製作中)",
     "advancements.quest.industry.root.description": "獲得任何一種模組的錠\n\n獎勵：科技手冊與工業革命手冊",
     "advancements.quest.storage.root.name": "ATR1 模組包任務：儲存篇 (製作中)",
