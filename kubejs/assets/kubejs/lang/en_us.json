@@ -44,9 +44,31 @@
   "advancements.quest.get_crafting_table.name": "Our good ol' crafting table!",
   "advancements.quest.get_crafting_table.description": "Craft a Crafting Table\n\nReaward: None",
 
-
   "advancements.quest.get_crafting_table_slab.name": "Crafting Slab?",
   "advancements.quest.get_crafting_table_slab.description": "Craft a Crafting Table Slab\n\nReaward: None",
+
+  "advancements.quest.get_cobblestone.name": "This isn't block that I mine",
+  "advancements.quest.get_cobblestone.description": "Mine a stone and obtain cobblestone\n\nReaward: Stone Pickaxe",
+
+  "advancements.quest.get_furnace.name": "A vanalla furnace",
+  "advancements.quest.get_furnace.description": "Craft a Furnace\n\nReaward: 3 Iron Ingot",
+
+  "advancements.quest.get_furnace_slab.name": "Another functional slab",
+  "advancements.quest.get_furnace_slab.description": "Craft a Furnace Slab\n\nReaward: None",
+
+  "advancements.quest.get_smoker.name": "Cooking time",
+  "advancements.quest.get_smoker.description" :"Craft a Smoker\n\nReaward: None",
+
+  "advancements.quest.get_smoker_slab.name": "Cooking time on a ...slab?",
+  "advancements.quest.get_smoker_slab.description": "Craft a Smoker Slab\n\nReaward: None",
+
+  "advancements.quest.get_blast_furnace.name":"Faster furnace for ore",
+  "advancements.quest.get_blast_furnace.description":"Craft a Blast Furnace\n\nReaward: None",
+
+  "advancements.quest.get_blast_furnace_slab.name":"How many functional slab are there?",
+  "advancements.quest.get_blast_furnace_slab.description":"Craft a Blast Furnace Slab\n\nReaward: None",
+
+
 
   "advancements.quest.industry.root.name": "Enter the world of ATR: Industry (WIP)",
   "advancements.quest.industry.root.description": "Get any kind of ingot\n\nReaward: Revolutionary Guide",
