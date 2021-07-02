@@ -1,0 +1,10 @@
+{
+	/* ***********************
+	   Ring Settings
+	   ***********************
+	*/
+	"baseTickDelay": 60,
+	"BaseTickDelayCactus": 20,
+	"HorizRange": 12,
+	"VerticalRange": 6
+}

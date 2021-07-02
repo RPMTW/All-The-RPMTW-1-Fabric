@@ -1,0 +1,6 @@
+{
+	/* only the last level of unbreaking will set the tool
+	   to be unbreakable if this is true. default = false
+	*/
+	"maxLevelOnly": false
+}

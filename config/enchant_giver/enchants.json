@@ -168,6 +168,9 @@
   "mcdw:hammer_gravity": {
     "mcdw:gravity": 1
   },
+  "mcdw:crossbow_feral_soul_crossbow": {
+    "mcdw:enigma_resonator": 1
+  },
   "mcdw:sickle_nightmares_bite": {
     "mcdw:poison_cloud": 1
   },

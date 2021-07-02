@@ -114,6 +114,11 @@
     "Permission to open containers",
     "(chest, furnace etc.)"
   ],
+  "INTERACTBLOCK.desc": [
+    "Generic permission for block interaction.",
+    "Fallback to OPENCONTAINER",
+    "Gets used for all blocks OPENCONTAINER doesn't check for"
+  ],
   "ANVIL.desc": "Permission to use anvils",
   "BED.desc": "Permission to use beds",
   "BEACON.desc": "Permission to use beacons",
@@ -139,6 +144,7 @@
     "Permission to enable block trampling",
     "(farmland, turtle eggs)"
   ],
+  "FROSTWALKER.desc": "Permission for frostwalker to activate",
   "PORTAL.desc": "Permission to use nether portals",
   "RAID.desc": [
     "Permission to trigger raids in claim.",

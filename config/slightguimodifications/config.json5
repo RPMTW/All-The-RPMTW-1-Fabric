@@ -61,5 +61,5 @@
 	},
 	// Whether GUI should allow right click actions.
 	"rightClickActions": true,
-	"satisfyingScreenshots": false
+	"satisfyingScreenshots": true
 }

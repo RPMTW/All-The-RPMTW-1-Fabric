@@ -369,6 +369,9 @@
     "striped_log_willow_striped_bark_willow[def: true]": true,
     "cincinnasite_excavator[def: true]": true,
     "nether_ruby_excavator[def: true]": true,
-    "cincinnasite_excavator_diamond[def: true]": true
+    "cincinnasite_excavator_diamond[def: true]": true,
+    "cincinnasite_hammer[def: true]": true,
+    "nether_ruby_hammer[def: true]": true,
+    "cincinnasite_hammer_diamond[def: true]": true
   }
 }
