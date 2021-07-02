@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-07-02T03:24:16.7616851Z",
-  "playedCount": 58,
+  "lastPlayed": "2021-07-02T08:56:00.9447208Z",
+  "playedCount": 60,
   "manifest": {
     "minecraft": {
       "version": "1.17",
@@ -4664,7 +4664,7 @@
       "dateInstalled": "2021-06-28T06:57:00.1773439Z",
       "dateUpdated": "2021-07-01T07:48:03.900218Z",
       "dateLastUpdateAttempted": "2021-07-01T07:48:03.900218Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7954,7 +7954,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 355583,
@@ -9119,7 +9119,7 @@
       "dateInstalled": "2021-06-29T12:48:04.2012076Z",
       "dateUpdated": "2021-07-01T07:47:32.806482Z",
       "dateLastUpdateAttempted": "2021-07-01T07:47:32.806482Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9961,7 +9961,7 @@
       "dateInstalled": "2021-06-17T14:25:16.3580313Z",
       "dateUpdated": "2021-07-01T07:47:28.2701014Z",
       "dateLastUpdateAttempted": "2021-07-01T07:47:28.2701014Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11227,7 +11227,7 @@
       "dateInstalled": "2021-07-01T07:54:04.1890383Z",
       "dateUpdated": "2021-07-01T07:54:04.1988641Z",
       "dateLastUpdateAttempted": "2021-07-01T07:54:04.1988641Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11463,7 +11463,7 @@
       "dateInstalled": "2021-06-17T04:35:47.6446662Z",
       "dateUpdated": "2021-07-01T07:47:28.0700872Z",
       "dateLastUpdateAttempted": "2021-07-01T07:47:28.0700872Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12068,7 +12068,7 @@
       "dateInstalled": "2021-07-01T07:54:01.8453234Z",
       "dateUpdated": "2021-07-01T07:54:01.8593216Z",
       "dateLastUpdateAttempted": "2021-07-01T07:54:01.8593216Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -14442,127 +14442,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 394941,
-      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
-      "installedFile": {
-        "id": 3233941,
-        "displayName": "curios-fabric-0.0.13-1.16.5.jar",
-        "fileName": "curios-fabric-0.0.13-1.16.5.jar",
-        "fileDate": "2021-03-10T02:59:14.31Z",
-        "fileLength": 348966,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3233/941/curios-fabric-0.0.13-1.16.5.jar",
-        "isAlternate": false,
-        "alternateFileId": 3233942,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 318449,
-            "type": 1,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 306612,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "README.md",
-            "fingerprint": 735483654,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "licenses",
-            "fingerprint": 3550732819,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 3441577458,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 354465712,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "curios.mixins.json",
-            "fingerprint": 902985475,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "CHANGELOG.md",
-            "fingerprint": 2668417973,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3472049130,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "curios-fabric-refmap.json",
-            "fingerprint": 1179458322,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3157315178,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "top",
-            "fingerprint": 510549570,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 4135821732,
-        "gameVersion": [
-          "Fabric",
-          "1.16.5"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "curios-fabric-0.0.13-1.16.5.jar"
-      },
-      "dateInstalled": "2021-07-01T07:47:34.9330622Z",
-      "dateUpdated": "2021-07-01T07:47:34.943063Z",
-      "dateLastUpdateAttempted": "2021-07-01T07:47:34.943063Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 369254,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
@@ -15759,7 +15638,7 @@
       "dateInstalled": "2021-06-23T15:05:05.4389518Z",
       "dateUpdated": "2021-07-01T07:48:00.841602Z",
       "dateLastUpdateAttempted": "2021-07-01T07:48:00.841602Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -16122,7 +16001,7 @@
       "dateInstalled": "2021-06-19T01:33:43.028264Z",
       "dateUpdated": "2021-07-01T07:48:01.4070704Z",
       "dateLastUpdateAttempted": "2021-07-01T07:48:01.4070704Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -17613,6 +17492,110 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 411816,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3360337,
+        "displayName": "[HOTFIX] Simple RPC Fabric 1.17 2.2.2",
+        "fileName": "simple-rpc-1.17-2.2.2-fabric.jar",
+        "fileDate": "2021-06-21T21:44:27.98Z",
+        "fileLength": 1373063,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3360/337/simple-rpc-1.17-2.2.2-fabric.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2507889392,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 919411550,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "simple-rpc.mixins.json",
+            "fingerprint": 1691476930,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "simple-rpc.accesswidener",
+            "fingerprint": 596608321,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 4265738353,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3071533211,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "simple-rpc-refmap.json",
+            "fingerprint": 2728755922,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 1198544922,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1769014564,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "simple-rpc-1.17-2.2.2-fabric.jar"
+      },
+      "dateInstalled": "2021-07-02T09:28:09.1854664Z",
+      "dateUpdated": "2021-07-02T09:28:09.1944669Z",
+      "dateLastUpdateAttempted": "2021-07-02T09:28:09.1944669Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 360438,
@@ -21286,7 +21269,7 @@
       "dateInstalled": "2021-06-20T11:05:11.8603525Z",
       "dateUpdated": "2021-07-01T07:48:06.9912901Z",
       "dateLastUpdateAttempted": "2021-07-01T07:48:06.9912901Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -23140,7 +23123,7 @@
       "dateInstalled": "2021-06-14T15:50:43.3748534Z",
       "dateUpdated": "2021-07-01T07:47:28.5267391Z",
       "dateLastUpdateAttempted": "2021-07-01T07:47:28.5267391Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -24440,6 +24423,102 @@
       "installedTargets": null
     },
     {
+      "addonID": 321663,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3368855,
+        "displayName": "fabric-branders-spawnermod-1.17-1.1.0.jar",
+        "fileName": "fabric-branders-spawnermod-1.17-1.1.0.jar",
+        "fileDate": "2021-06-29T13:15:18.063Z",
+        "fileLength": 95263,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3368/855/fabric-branders-spawnermod-1.17-1.1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_spawnermod",
+            "fingerprint": 18375977,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "spawnermod.mixins.json",
+            "fingerprint": 1363765854,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2783310609,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2386304198,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1101449511,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "spawnermod-refmap.json",
+            "fingerprint": 2491209631,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 881445682,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2574643091,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "fabric-branders-spawnermod-1.17-1.1.0.jar"
+      },
+      "dateInstalled": "2021-06-24T05:18:20.1872013Z",
+      "dateUpdated": "2021-07-01T07:47:29.7358911Z",
+      "dateLastUpdateAttempted": "2021-07-01T07:47:29.7358911Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 446767,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
@@ -24561,102 +24640,6 @@
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 321663,
-      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
-      "installedFile": {
-        "id": 3368855,
-        "displayName": "fabric-branders-spawnermod-1.17-1.1.0.jar",
-        "fileName": "fabric-branders-spawnermod-1.17-1.1.0.jar",
-        "fileDate": "2021-06-29T13:15:18.063Z",
-        "fileLength": 95263,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3368/855/fabric-branders-spawnermod-1.17-1.1.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE_spawnermod",
-            "fingerprint": 18375977,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "spawnermod.mixins.json",
-            "fingerprint": 1363765854,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 2783310609,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 2386304198,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1101449511,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "spawnermod-refmap.json",
-            "fingerprint": 2491209631,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 881445682,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2574643091,
-        "gameVersion": [
-          "1.17",
-          "Fabric"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "fabric-branders-spawnermod-1.17-1.1.0.jar"
-      },
-      "dateInstalled": "2021-06-24T05:18:20.1872013Z",
-      "dateUpdated": "2021-07-01T07:47:29.7358911Z",
-      "dateLastUpdateAttempted": "2021-07-01T07:47:29.7358911Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
