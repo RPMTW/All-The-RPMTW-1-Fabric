@@ -1,0 +1,35 @@
+{
+    "parent": "atr:quest/basis/first/get_log",
+    "display": {
+      "icon": {
+        "item": "minecraft:crafting_table"
+      },
+      "title": {
+        "translate": "advancements.quest.get_crafting_table.name"
+      },
+      "description": {
+        "translate": "advancements.quest.get_crafting_table.description"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "get_crafting_table": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": ["minecraft:crafting_table"]
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "get_crafting_table"
+      ]
+    ]
+  }

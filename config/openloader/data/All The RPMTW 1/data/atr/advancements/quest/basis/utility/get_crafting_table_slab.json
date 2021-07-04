@@ -1,0 +1,35 @@
+{
+    "parent": "atr:quest/basis/utility/get_crafting_table",
+    "display": {
+      "icon": {
+        "item": "improved-stations:crafting_table_slab"
+      },
+      "title": {
+        "translate": "advancements.quest.get_crafting_table_slab.name"
+      },
+      "description": {
+        "translate": "advancements.quest.get_crafting_table_slab.description"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "get_crafting_table_slab": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": ["improved-stations:crafting_table_slab"]
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "get_crafting_table_slab"
+      ]
+    ]
+  }

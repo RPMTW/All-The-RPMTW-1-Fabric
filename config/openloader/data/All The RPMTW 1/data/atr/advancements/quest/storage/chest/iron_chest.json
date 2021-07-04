@@ -1,0 +1,40 @@
+{
+    "parent": "atr:quest/storage/root",
+    "display": {
+        "icon": {
+            "item": "expandedstorage:iron_chest"
+        },
+        "title": {
+            "translate": "advancements.quest.storage.iron_chest.name"
+        },
+        "description": {
+            "translate": "advancements.quest.storage.iron_chest.description"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "iron_chest": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "expandedstorage:iron_chest"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "iron_chest"
+        ]
+    ],
+    "rewards": {
+        "function": "atr:get_bread"
+    }
+}

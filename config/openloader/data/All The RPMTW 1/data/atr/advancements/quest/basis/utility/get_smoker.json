@@ -1,0 +1,35 @@
+{
+    "parent": "atr:quest/basis/utility/get_furnace",
+    "display": {
+      "icon": {
+        "item": "minecraft:smoker"
+      },
+      "title": {
+        "translate": "advancements.quest.get_smoker.name"
+      },
+      "description": {
+        "translate": "advancements.quest.get_smoker.description"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "get_smoker": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": ["minecraft:smoker"]
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "get_smoker"
+      ]
+    ]
+  }

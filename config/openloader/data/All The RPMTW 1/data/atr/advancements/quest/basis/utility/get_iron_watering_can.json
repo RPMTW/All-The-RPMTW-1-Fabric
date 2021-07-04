@@ -1,0 +1,38 @@
+{
+    "parent": "atr:quest/basis/first/get_iron",
+    "display": {
+      "icon": {
+        "item": "croptosis:iron_watering_can"
+      },
+      "title": {
+        "translate": "advancements.quest.get_iron_watering_can.name"
+      },
+      "description": {
+        "translate": "advancements.quest.get_iron_watering_can.description"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "get_iron_watering_can": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": ["croptosis:iron_watering_can"]
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "get_iron_watering_can"
+      ]
+    ],
+    "rewards": {
+      "function": "atr:get_bread"
+  }
+  }

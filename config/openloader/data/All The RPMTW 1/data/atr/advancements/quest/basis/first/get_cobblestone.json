@@ -1,0 +1,35 @@
+{
+  "parent": "atr:quest/basis/first/get_log",
+  "display": {
+    "icon": {
+      "item": "minecraft:cobblestone"
+    },
+    "title": {
+      "translate": "advancements.quest.get_cobblestone.name"
+    },
+    "description": {
+      "translate": "advancements.quest.get_cobblestone.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_cobblestone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:cobblestone"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_cobblestone"
+    ]
+  ]
+}

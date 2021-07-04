@@ -1,0 +1,86 @@
+{
+  "parent": "atr:quest/basis/first/get_log",
+  "display": {
+    "icon": {
+      "item": "comforts:sleeping_bag_white"
+    },
+    "title": {
+      "translate": "advancements.quest.get_beds.name"
+    },
+    "description": {
+      "translate": "advancements.quest.get_beds.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_beds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "comforts:sleeping_bag_white",
+              "comforts:sleeping_bag_black",
+              "comforts:sleeping_bag_blue",
+              "comforts:sleeping_bag_cyan",
+              "comforts:sleeping_bag_gray",
+              "comforts:sleeping_bag_green",
+              "comforts:sleeping_bag_light_blue",
+              "comforts:sleeping_bag_light_gray",
+              "comforts:sleeping_bag_lime",
+              "comforts:sleeping_bag_magenta",
+              "comforts:sleeping_bag_orange",
+              "comforts:sleeping_bag_pink",
+              "comforts:sleeping_bag_purple",
+              "comforts:sleeping_bag_red",
+              "comforts:sleeping_bag_yellow",
+              "comforts:hammock_white",
+              "comforts:hammock_black",
+              "comforts:hammock_blue",
+              "comforts:hammock_cyan",
+              "comforts:hammock_gray",
+              "comforts:hammock_green",
+              "comforts:hammock_light_blue",
+              "comforts:hammock_light_gray",
+              "comforts:hammock_lime",
+              "comforts:hammock_magenta",
+              "comforts:hammock_orange",
+              "comforts:hammock_pink",
+              "comforts:hammock_purple",
+              "comforts:hammock_red",
+              "comforts:hammock_yellow",
+
+              "kibe:white_sleeping_bag",
+              "kibe:black_sleeping_bag",
+              "kibe:sleeping_bag",
+              "kibe:cyan_sleeping_bag",
+              "kibe:gray_sleeping_bag",
+              "kibe:green_sleeping_bag",
+              "kibe:green_sleeping_bag",
+              "kibe:light_blue_sleeping_bag",
+              "kibe:light_gray_sleeping_bag",
+              "kibe:lime_sleeping_bag",
+              "kibe:magenta_sleeping_bag",
+              "kibe:orange_sleeping_bag",
+              "kibe:pink_sleeping_bag",
+              "kibe:purple_sleeping_bag",
+              "kibe:red_sleeping_bag",
+              "kibe:yellow_sleeping_bag"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_beds"
+    ]
+  ],
+  "rewards": {
+    "function": "atr:get_start_house"
+  }
+}

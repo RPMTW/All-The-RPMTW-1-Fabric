@@ -1,0 +1,35 @@
+{
+    "parent": "atr:quest/basis/utility/get_blast_furnace",
+    "display": {
+      "icon": {
+        "item": "improved-stations:blast_furnace_slab"
+      },
+      "title": {
+        "translate": "advancements.quest.get_blast_furnace_slab.name"
+      },
+      "description": {
+        "translate": "advancements.quest.get_blast_furnace_slab.description"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "get_blast_furnace_slab": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": ["improved-stations:blast_furnace_slab"]
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "get_blast_furnace_slab"
+      ]
+    ]
+  }

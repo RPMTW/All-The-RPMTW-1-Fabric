@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "biome_locator:compass"
+    },
+    "title": {
+      "translate": "advancements.quest.adventure.root.name"
+    },
+    "description": {
+      "translate": "advancements.quest.adventure.root.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "criteria": {
+    "quest_adventure": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "quest_adventure"
+    ]
+  ]
+}
