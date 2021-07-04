@@ -5665,6 +5665,127 @@
       "installedTargets": null
     },
     {
+      "addonID": 496221,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3372047,
+        "displayName": "Bee Buddies v1.1.2 (1.17)",
+        "fileName": "beebuddy-1.1.2+1.17.jar",
+        "fileDate": "2021-07-01T01:39:02.46Z",
+        "fileLength": 166144,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3372/47/beebuddy-1.1.2+1.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE.mit_beebuddy.mit",
+            "fingerprint": 194538124,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE.wtfpl_beebuddy.wtfpl",
+            "fingerprint": 2828543008,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3471953119,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 3482703702,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "beebuddy.mixins_client.json",
+            "fingerprint": 866057576,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "beebuddy.mixins.json",
+            "fingerprint": 2882620934,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "beebuddy.accesswidener",
+            "fingerprint": 2316001784,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4277364664,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "beebuddy-refmap.json",
+            "fingerprint": 2812952100,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "nomble",
+            "fingerprint": 1977485255,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1911384859,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "beebuddy-1.1.2+1.17.jar"
+      },
+      "dateInstalled": "2021-07-04T08:50:05.5627364Z",
+      "dateUpdated": "2021-07-04T08:50:05.5757462Z",
+      "dateLastUpdateAttempted": "2021-07-04T08:50:05.5757462Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 334259,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
@@ -5839,102 +5960,6 @@
       "dateInstalled": "2021-06-29T13:16:26.6067035Z",
       "dateUpdated": "2021-06-29T13:16:26.615705Z",
       "dateLastUpdateAttempted": "2021-06-29T13:16:26.615705Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 364426,
-      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
-      "installedFile": {
-        "id": 3344525,
-        "displayName": "Survival Island 0.1.7 for 1.17",
-        "fileName": "survivalisland-0.1.7.jar",
-        "fileDate": "2021-06-09T02:36:01.187Z",
-        "fileLength": 21330,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3344/525/survivalisland-0.1.7.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 1136524626,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "survivalisland.mixins.json",
-            "fingerprint": 504152035,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "survivalisland.aw",
-            "fingerprint": 725041127,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 2533393878,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2609547853,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "survivalisland-refmap.json",
-            "fingerprint": 812773512,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "supercoder79",
-            "fingerprint": 2064381459,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1923798236,
-        "gameVersion": [
-          "1.17",
-          "Fabric"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "survivalisland-0.1.7.jar"
-      },
-      "dateInstalled": "2021-06-15T02:52:36.0144287Z",
-      "dateUpdated": "2021-06-15T02:52:36.0874614Z",
-      "dateLastUpdateAttempted": "2021-06-15T02:52:36.0874614Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -24614,24 +24639,6 @@
       "dateUpdated": "2021-06-23T15:05:05.4419519Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 321663,
-      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
-      "installedFile": null,
-      "dateInstalled": "2021-06-24T05:18:20.1872013Z",
-      "dateUpdated": "2021-07-04T02:43:22.3516655Z",
-      "dateLastUpdateAttempted": "2021-07-04T02:43:22.3516655Z",
-      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
