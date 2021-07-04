@@ -430,7 +430,7 @@
   "cachedScans": [],
   "isValid": true,
   "lastPreviousMatchUpdate": "2021-07-04T05:09:47.4903417Z",
-  "lastRefreshAttempt": "2021-07-04T13:22:47.5106321+08:00",
+  "lastRefreshAttempt": "2021-07-04T13:26:41.2604803+08:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.17",
@@ -5123,6 +5123,90 @@
       "installedTargets": null
     },
     {
+      "addonID": 354339,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3347157,
+        "displayName": "OpenLoader-fabric-1.17-2.0.1.jar",
+        "fileName": "OpenLoader-fabric-1.17-2.0.1.jar",
+        "fileDate": "2021-06-11T00:03:12.537Z",
+        "fileLength": 9524,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3347/157/OpenLoader-fabric-1.17-2.0.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2264583750,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1731328365,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "openloader.mixins.json",
+            "fingerprint": 1949753162,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3859778001,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "openloader.refmap.json",
+            "fingerprint": 264352684,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 2087673145,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1582977626,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "OpenLoader-fabric-1.17-2.0.1.jar"
+      },
+      "dateInstalled": "2021-07-04T05:24:25.5532472Z",
+      "dateUpdated": "2021-07-04T05:24:25.6322317Z",
+      "dateLastUpdateAttempted": "2021-07-04T05:24:25.6322317Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 404606,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
@@ -6401,61 +6485,7 @@
     {
       "addonID": 301900,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
-      "installedFile": {
-        "id": 3343655,
-        "displayName": "Better Leaves Add-on V2.5-1.17",
-        "fileName": "Better Leaves Add-on V2.5-1.17.zip",
-        "fileDate": "2021-06-08T16:56:02.323Z",
-        "fileLength": 64639,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3343/655/Better Leaves Add-on V2.5-1.17.zip",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "assets",
-            "fingerprint": 1578782357,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "Changelog.txt",
-            "fingerprint": 3356860037,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1229268539,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.png",
-            "fingerprint": 2156859551,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2670681151,
-        "gameVersion": [
-          "1.17",
-          "1.17-Snapshot"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2020-11-12T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Better Leaves Add-on V2.5-1.17.zip"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-07-04T05:10:55.6443623Z",
       "dateUpdated": "2021-07-04T05:10:55.6833825Z",
       "dateLastUpdateAttempted": "2021-07-04T05:10:55.6833825Z",
