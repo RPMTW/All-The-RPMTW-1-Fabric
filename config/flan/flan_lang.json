@@ -105,6 +105,7 @@
   "setHome": "Claim home set to [x=%s,y=%s,z=%s]",
   "teleportHome": "Teleporting to claim home. Don't move for 5 seconds",
   "teleportHomeFail": "Teleport already happening",
+  "wiki": "For more info check out the wiki:",
   "EDITCLAIM.desc": "Gives permission to edit (resize, delete...) the claim",
   "EDITPERMS.desc": "Gives permission to change the claims permissions",
   "EDITPOTIONS.desc": "Gives permission to edit the claims potion effect",
@@ -180,6 +181,11 @@
   "PISTONBORDER.desc": "Toggle piston pull/push across claim borders",
   "MOBSPAWN.desc": "Prevent hostile mobspawn in claim",
   "ANIMALSPAWN.desc": "Prevent other spawn in claim",
+  "LIGHTNING.desc": [
+    "Allow lightning to affect claims",
+    "e.g. set blocks on fire",
+    "or affect animals (mobs are excluded)"
+  ],
   "commands": {
     "teleport": [
       "teleport self | admin | (other <player>) (<claim name> | <claim uuid>)",
