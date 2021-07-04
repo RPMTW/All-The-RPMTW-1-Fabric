@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-07-04T04:19:16.835918Z",
-  "playedCount": 62,
+  "lastPlayed": "2021-07-04T05:23:43.3788433Z",
+  "playedCount": 63,
   "manifest": {
     "minecraft": {
       "version": "1.17",
@@ -430,7 +430,7 @@
   "cachedScans": [],
   "isValid": true,
   "lastPreviousMatchUpdate": "2021-07-04T05:09:47.4903417Z",
-  "lastRefreshAttempt": "2021-07-04T13:09:47.6213388+08:00",
+  "lastRefreshAttempt": "2021-07-04T13:22:47.5106321+08:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.17",
@@ -5126,14 +5126,14 @@
       "addonID": 404606,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
-        "id": 3329434,
-        "displayName": "Biome Picker v1.1",
-        "fileName": "biomepicker-1.1.jar",
-        "fileDate": "2021-05-29T14:52:54.657Z",
-        "fileLength": 67677,
+        "id": 3368800,
+        "displayName": "Biome Picker v1.1.1",
+        "fileName": "biomepicker-1.1.1.jar",
+        "fileDate": "2021-06-29T12:41:27.217Z",
+        "fileLength": 67679,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3329/434/biomepicker-1.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3368/800/biomepicker-1.1.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -5142,66 +5142,77 @@
           {
             "foldername": "META-INF",
             "fingerprint": 2102460248,
-            "type": 0,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "LICENSE",
             "fingerprint": 1136524626,
-            "type": 0,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
             "fingerprint": 1581163165,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 1084533172,
-            "type": 0,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "biomepicker.mixins.json",
             "fingerprint": 2200457923,
-            "type": 0,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 622036232,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "biomepicker-refmap.json",
             "fingerprint": 546616160,
-            "type": 0,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "me",
-            "fingerprint": 1332074805,
-            "type": 0,
+            "fingerprint": 4206333913,
+            "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 731060174,
+        "packageFingerprint": 2396217093,
         "gameVersion": [
-          "1.17",
-          "Fabric"
+          "1.17"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017",
+            "gameVersion": "1.17",
+            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
+            "gameVersionName": "1.17"
+          }
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2384164,
+        "projectId": 404606,
+        "packageFingerprintId": 694324540,
+        "gameVersionDateReleased": "2020-11-12T00:00:00Z",
+        "gameVersionMappingId": 3085699,
+        "gameVersionId": 8152,
+        "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "biomepicker-1.1.jar"
+        "FileNameOnDisk": "biomepicker-1.1.1.jar"
       },
-      "dateInstalled": "2021-06-17T05:42:10.4170722Z",
-      "dateUpdated": "2021-06-17T05:42:10.4240767Z",
-      "dateLastUpdateAttempted": "2021-06-17T05:42:10.4240767Z",
-      "status": 5,
+      "dateInstalled": "2021-07-04T05:22:47.3756348Z",
+      "dateUpdated": "2021-07-04T05:22:47.3756348Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5210,7 +5221,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 393442,
@@ -19572,29 +19583,17 @@
       "addonID": 438696,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
-        "id": 3361671,
-        "displayName": "prefab-fabric-2.0.0.jar",
-        "fileName": "prefab-fabric-2.0.0.jar",
-        "fileDate": "2021-06-23T00:57:03.447Z",
-        "fileLength": 4124435,
+        "id": 3375078,
+        "displayName": "prefab-fabric-2.0.1.jar",
+        "fileName": "prefab-fabric-2.0.1.jar",
+        "fileDate": "2021-07-03T14:55:27.277Z",
+        "fileLength": 7070193,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3361/671/prefab-fabric-2.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3375/78/prefab-fabric-2.0.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
-          {
-            "id": 0,
-            "addonId": 308702,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 373261,
-            "type": 3,
-            "fileId": 0
-          },
           {
             "id": 0,
             "addonId": 319057,
@@ -19605,6 +19604,12 @@
             "id": 0,
             "addonId": 306612,
             "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 308702,
+            "type": 2,
             "fileId": 0
           }
         ],
@@ -19624,7 +19629,7 @@
           },
           {
             "foldername": "prefab.mixins.json",
-            "fingerprint": 3599317081,
+            "fingerprint": 1764872757,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -19636,7 +19641,7 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 3195381131,
+            "fingerprint": 3081797215,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -19648,24 +19653,24 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 67938261,
+            "fingerprint": 4071533361,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "prefab-fabric-refmap.json",
-            "fingerprint": 860128751,
+            "fingerprint": 4181236845,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 3022797652,
+            "fingerprint": 3062879118,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 709550339,
+        "packageFingerprint": 3582409442,
         "gameVersion": [
           "1.17",
           "Fabric"
@@ -19679,12 +19684,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "prefab-fabric-2.0.0.jar"
+        "FileNameOnDisk": "prefab-fabric-2.0.1.jar"
       },
       "dateInstalled": "2021-06-24T01:37:52.5528901Z",
-      "dateUpdated": "2021-06-24T01:37:52.569891Z",
-      "dateLastUpdateAttempted": "2021-06-24T01:37:52.569891Z",
-      "status": 3,
+      "dateUpdated": "2021-07-04T05:11:09.8063378Z",
+      "dateLastUpdateAttempted": "2021-07-04T05:11:09.8063378Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
