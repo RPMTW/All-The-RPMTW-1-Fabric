@@ -86,6 +86,7 @@ key_modifiers_gui.xaero_map_zoom_in:
 key_modifiers_gui.xaero_map_zoom_out:
 key_modifiers_gui.xaero_quick_confirm:
 key_modifiers_key.dankstorage.construction:
+key_modifiers_key.hwg.reload:
 key_modifiers_key.waila.config:
 key_modifiers_key.waila.show_overlay:
 key_modifiers_key.waila.toggle_liquid:
@@ -96,6 +97,9 @@ key_modifiers_key.identity_ability:
 key_modifiers_seamless_loading_screen.keybind.config:
 key_modifiers_key.slotlock:
 key_modifiers_key.lightoverlay.enable_overlay:
+key_modifiers_key.extraalchemy.magnetism_toggle:
+key_modifiers_key.extraalchemy.potion_bag_mode:
+key_modifiers_key.extraalchemy.toggle_extra_inv_rings:
 key_modifiers_salutem.keybind.toggle:
 key_modifiers_key.okzoomer.zoom:
 key_modifiers_key.okzoomer.decrease_zoom:
