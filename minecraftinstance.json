@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-07-07T03:35:12.7903339Z",
-  "playedCount": 69,
+  "lastPlayed": "2021-07-07T09:14:56.1933202Z",
+  "playedCount": 70,
   "manifest": {
     "minecraft": {
       "version": "1.17",
@@ -16324,6 +16324,145 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 310111,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3371046,
+        "displayName": "[Fabric 1.17] v6.0.262-alpha",
+        "fileName": "RoughlyEnoughItems-6.0.262-alpha-fabric.jar",
+        "fileDate": "2021-06-30T14:40:33.613Z",
+        "fileLength": 1193820,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3371/46/RoughlyEnoughItems-6.0.262-alpha-fabric.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 419697,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 319057,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 315416046,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 2700270864,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3171517266,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "icon.png",
+            "fingerprint": 1972081312,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "rei.mixins.json",
+            "fingerprint": 2673240762,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "roughlyenoughitems.accessWidener",
+            "fingerprint": 313058136,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "RoughlyEnoughItems-fabric-refmap.json",
+            "fingerprint": 3136639443,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 398680204,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "architectury_inject_RoughlyEnoughItems_runtime_be3a03d4014b46e3a768a7cd45c36f57",
+            "fingerprint": 1509548494,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "architectury_inject_RoughlyEnoughItems_defaultplugin_7e604639340f478fae4394ff6f96afc6",
+            "fingerprint": 3984170496,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "architectury_inject_RoughlyEnoughItems_api_4bf8786917df4a6c98814b9ba3d9c807",
+            "fingerprint": 175598645,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2030531057,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "RoughlyEnoughItems-6.0.262-alpha-fabric.jar"
+      },
+      "dateInstalled": "2021-07-07T03:43:35.7477854Z",
+      "dateUpdated": "2021-07-07T03:43:35.7603944Z",
+      "dateLastUpdateAttempted": "2021-07-07T03:43:35.7603944Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 355914,
