@@ -90,8 +90,8 @@ key_modifiers_key.hwg.reload:
 key_modifiers_key.waila.config:
 key_modifiers_key.waila.show_overlay:
 key_modifiers_key.waila.toggle_liquid:
-key_modifiers_key.waila.show_recipe_input:
-key_modifiers_key.waila.show_recipe_output:
+key_modifiers_key.waila.show_recipe_input:2
+key_modifiers_key.waila.show_recipe_output:2
 key_modifiers_key.identity:
 key_modifiers_key.identity_ability:
 key_modifiers_seamless_loading_screen.keybind.config:
