@@ -30,6 +30,8 @@
 "Bookcases Enabled" = true
 #Bumblezone integration.
 "Bumblezone Enabled" = true
+#Scroll the mouse while hovering over a bundle to change the order of its contents.
+"BundleSorting Enabled" = true
 #Campfires no longer damage mobs.
 "CampfiresNoDamage Enabled" = true
 #Casks let you combine up to 64 potions, keeping an average of duration. Use glass bottles to extract home brew from the cask.
@@ -145,7 +147,7 @@
 "StackablePotions Enabled" = true
 #Allows stews to stack.
 "StackableStews Enabled" = true
-#A **Storage crate** has the equivalent capacity of a double-chest for a single item or block type.
+#A Storage crate has the equivalent capacity of a double-chest for a single item or block type.
 "StorageCrates Enabled" = true
 #Shows the custom name of a storage block as a floating label when the player is sneaking.
 "StorageLabels Enabled" = true
@@ -259,7 +261,7 @@
 [Core]
 	#If true, routes additional debug messages into the standard game log.
 	"Debug mode" = false
-	#If true, uses Charm's biome hacks to add world features instead of Fabric's biome API.
+	#If true, use Charm's biome hacks to add world features instead of Fabric's biome API.
 	#It's very unlikely you want to enable this.
 	"Use built-in biome hacks" = false
 	#If true, Charm will add its own advancement tree.
@@ -294,6 +296,8 @@
 	"Cyan Dye from warped roots" = true
 	#If true, adds a recipe for Green Dye using yellow and blue dyes.
 	"Green Dye from yellow and blue" = true
+	#If true, adds a recipe for turning snow blocks back into snowballs.
+	"Snowballs from snow blocks" = true
 	#If true, adds a recipe for Soul Torches using soul sand/soul soil and sticks.
 	"Simpler Soul Torch" = true
 	#If true, adds a shapeless recipe for bread.
@@ -350,11 +354,11 @@
 	Override = false
 
 [PlayerState]
-	#Interval (in ticks) on which additional world state will be synchronised to the client.
+	#Interval (in ticks) on which additional player state will be synchronised to the client.
 	"Server state update interval" = 120
 
 [PortableCrafting]
-	#If true, sets a keybind for opening the portable crafting table (defaults to 'c').
+	#If true, sets a keybind for opening the portable crafting table (defaults to 'v').
 	"Enable keybind" = true
 
 [PotionOfSpelunking]
