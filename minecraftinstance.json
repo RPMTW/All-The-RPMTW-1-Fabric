@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-07-06T13:30:02.0928896Z",
-  "playedCount": 66,
+  "lastPlayed": "2021-07-07T01:35:28.5311408Z",
+  "playedCount": 67,
   "manifest": {
     "minecraft": {
       "version": "1.17",
@@ -4421,7 +4421,7 @@
       "dateInstalled": "2021-07-05T13:16:04.8979376Z",
       "dateUpdated": "2021-07-05T13:16:04.9158896Z",
       "dateLastUpdateAttempted": "2021-07-05T13:16:04.9158896Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11478,7 +11478,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 438365,
@@ -21324,6 +21324,91 @@
       "installedTargets": null
     },
     {
+      "addonID": 328163,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3343912,
+        "displayName": "sit-1.17-12.jar",
+        "fileName": "sit-1.17-12.jar",
+        "fileDate": "2021-06-08T18:51:56.36Z",
+        "fileLength": 73769,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3343/912/sit-1.17-12.jar",
+        "isAlternate": false,
+        "alternateFileId": 3343913,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_sit",
+            "fingerprint": 697443232,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3058932922,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2582637023,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "bl4ckscor3",
+            "fingerprint": 744298880,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 415845404,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "sit-1.17-12.jar"
+      },
+      "dateInstalled": "2021-06-24T04:26:34.4544939Z",
+      "dateUpdated": "2021-06-24T04:26:34.4614962Z",
+      "dateLastUpdateAttempted": "2021-06-24T04:26:34.4614962Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 416406,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
@@ -21418,91 +21503,6 @@
       "dateInstalled": "2021-06-23T15:06:19.5053516Z",
       "dateUpdated": "2021-06-23T15:06:19.5363529Z",
       "dateLastUpdateAttempted": "2021-06-23T15:06:19.5363529Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 328163,
-      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
-      "installedFile": {
-        "id": 3343912,
-        "displayName": "sit-1.17-12.jar",
-        "fileName": "sit-1.17-12.jar",
-        "fileDate": "2021-06-08T18:51:56.36Z",
-        "fileLength": 73769,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3343/912/sit-1.17-12.jar",
-        "isAlternate": false,
-        "alternateFileId": 3343913,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 306612,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE_sit",
-            "fingerprint": 697443232,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 3058932922,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2582637023,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "bl4ckscor3",
-            "fingerprint": 744298880,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 415845404,
-        "gameVersion": [
-          "1.17",
-          "Fabric"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "sit-1.17-12.jar"
-      },
-      "dateInstalled": "2021-06-24T04:26:34.4544939Z",
-      "dateUpdated": "2021-06-24T04:26:34.4614962Z",
-      "dateLastUpdateAttempted": "2021-06-24T04:26:34.4614962Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -21970,103 +21970,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 407500,
-      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
-      "installedFile": {
-        "id": 3352501,
-        "displayName": "gate-of-babylon-1.5.0-1.17.jar",
-        "fileName": "gate-of-babylon-1.5.0-1.17.jar",
-        "fileDate": "2021-06-15T02:58:15.473Z",
-        "fileLength": 337729,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3352/501/gate-of-babylon-1.5.0-1.17.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 563863284,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 861980967,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "gate-of-babylon.mixins.json",
-            "fingerprint": 562314733,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 1753240826,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1094842548,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3959341997,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "gate-of-babylon-refmap.json",
-            "fingerprint": 2464454355,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "draylar",
-            "fingerprint": 163815371,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2738427231,
-        "gameVersion": [
-          "1.17",
-          "Fabric",
-          "1.17-Snapshot"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "gate-of-babylon-1.5.0-1.17.jar"
-      },
-      "dateInstalled": "2021-06-23T15:14:18.1743197Z",
-      "dateUpdated": "2021-06-23T15:14:18.1813216Z",
-      "dateLastUpdateAttempted": "2021-06-23T15:14:18.1813216Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 376224,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
@@ -22158,6 +22061,103 @@
       "dateInstalled": "2021-06-23T15:05:05.4479539Z",
       "dateUpdated": "2021-06-25T15:34:19.033755Z",
       "dateLastUpdateAttempted": "2021-06-25T15:34:19.033755Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 407500,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3352501,
+        "displayName": "gate-of-babylon-1.5.0-1.17.jar",
+        "fileName": "gate-of-babylon-1.5.0-1.17.jar",
+        "fileDate": "2021-06-15T02:58:15.473Z",
+        "fileLength": 337729,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3352/501/gate-of-babylon-1.5.0-1.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 563863284,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 861980967,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "gate-of-babylon.mixins.json",
+            "fingerprint": 562314733,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1753240826,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1094842548,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3959341997,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "gate-of-babylon-refmap.json",
+            "fingerprint": 2464454355,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "draylar",
+            "fingerprint": 163815371,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2738427231,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "gate-of-babylon-1.5.0-1.17.jar"
+      },
+      "dateInstalled": "2021-06-23T15:14:18.1743197Z",
+      "dateUpdated": "2021-06-23T15:14:18.1813216Z",
+      "dateLastUpdateAttempted": "2021-06-23T15:14:18.1813216Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -22302,64 +22302,76 @@
       "installedTargets": null
     },
     {
-      "addonID": 256717,
+      "addonID": 414213,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
-        "id": 3352525,
-        "displayName": "Clumps-fabric-1.17-7.0.0.2.jar",
-        "fileName": "Clumps-fabric-1.17-7.0.0.2.jar",
-        "fileDate": "2021-06-15T03:34:39.027Z",
-        "fileLength": 8491,
+        "id": 3379305,
+        "displayName": "arrfab-1.0.3+1.17.1",
+        "fileName": "arrfab-1.0.3+1.17.1.jar",
+        "fileDate": "2021-07-06T23:06:15.773Z",
+        "fileLength": 9133,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3352/525/Clumps-fabric-1.17-7.0.0.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3379/305/arrfab-1.0.3+1.17.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
-        "dependencies": [],
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 325625,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 310111,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
         "isAvailable": true,
         "modules": [
           {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
+            "foldername": "assets",
+            "fingerprint": 1082816103,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 1644520447,
+            "fingerprint": 1010405723,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "clumps.common.json",
-            "fingerprint": 2164588847,
+            "foldername": "io",
+            "fingerprint": 3107825150,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3623522934,
+            "foldername": "LICENSE",
+            "fingerprint": 3801465076,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "Clumps-refmap.json",
-            "fingerprint": 1124143192,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2470336077,
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2527299602,
+        "packageFingerprint": 1160203643,
         "gameVersion": [
           "1.17",
-          "Fabric",
-          "1.17-Snapshot"
+          "Fabric"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -22370,12 +22382,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Clumps-fabric-1.17-7.0.0.2.jar"
+        "FileNameOnDisk": "arrfab-1.0.3+1.17.1.jar"
       },
-      "dateInstalled": "2021-06-15T01:48:50.8238088Z",
-      "dateUpdated": "2021-06-15T14:04:15.7997329Z",
-      "dateLastUpdateAttempted": "2021-06-15T14:04:15.7997329Z",
-      "status": 5,
+      "dateInstalled": "2021-07-07T01:35:16.297401Z",
+      "dateUpdated": "2021-07-07T01:35:16.3163459Z",
+      "dateLastUpdateAttempted": "2021-07-07T01:35:16.3163459Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -22384,7 +22396,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 363949,
@@ -22514,6 +22526,91 @@
       "dateInstalled": "2021-06-23T15:05:05.4689525Z",
       "dateUpdated": "2021-06-23T15:05:05.4689525Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 256717,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3352525,
+        "displayName": "Clumps-fabric-1.17-7.0.0.2.jar",
+        "fileName": "Clumps-fabric-1.17-7.0.0.2.jar",
+        "fileDate": "2021-06-15T03:34:39.027Z",
+        "fileLength": 8491,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3352/525/Clumps-fabric-1.17-7.0.0.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1644520447,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "clumps.common.json",
+            "fingerprint": 2164588847,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3623522934,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "Clumps-refmap.json",
+            "fingerprint": 1124143192,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2470336077,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2527299602,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Clumps-fabric-1.17-7.0.0.2.jar"
+      },
+      "dateInstalled": "2021-06-15T01:48:50.8238088Z",
+      "dateUpdated": "2021-06-15T14:04:15.7997329Z",
+      "dateLastUpdateAttempted": "2021-06-15T14:04:15.7997329Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -24115,24 +24212,6 @@
       "dateInstalled": "2021-06-28T06:59:02.8562673Z",
       "dateUpdated": "2021-06-28T06:59:02.9133068Z",
       "dateLastUpdateAttempted": "2021-06-28T06:59:02.9133068Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 491407,
-      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
-      "installedFile": null,
-      "dateInstalled": "2021-06-23T15:05:05.4609838Z",
-      "dateUpdated": "2021-06-23T15:05:05.4609838Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
