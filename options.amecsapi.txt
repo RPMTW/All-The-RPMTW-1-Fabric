@@ -79,6 +79,8 @@ key_modifiers_gui.xaero_toggle_light_overlay:
 key_modifiers_gui.xaero_minimap_settings:
 key_modifiers_key.ingameime.hotkey:
 key_modifiers_key.inmis.open_backpack:
+key_modifiers_key.arrfab.view_recipes:2
+key_modifiers_key.arrfab.view_usages:2
 key_modifiers_key.indrev.modular:
 key_modifiers_gui.xaero_open_map:
 key_modifiers_gui.xaero_open_settings:
