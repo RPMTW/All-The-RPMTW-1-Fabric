@@ -1,6 +1,8 @@
 {
 	"basics": {
-		"favorites": [],
+		"favorites": [
+			"{data:{Count:1b,id:\"patchouli:guide_book\",tag:{\"patchouli:book\":\"outvoted:book\"},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		],
 		// Declares whether cheating mode is on.
 		"cheating": false,
 		"favoritesEnabled": true,
