@@ -4213,10 +4213,77 @@
     {
       "addonID": 492782,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
-      "installedFile": null,
-      "dateInstalled": "2021-07-13T09:55:14.0604573Z",
-      "dateUpdated": "2021-07-13T09:55:14.084395Z",
-      "dateLastUpdateAttempted": "2021-07-13T09:55:14.084395Z",
+      "installedFile": {
+        "id": 3346518,
+        "displayName": "Cavenabler-1.0.0",
+        "fileName": "cavenabler-1.0.0.jar",
+        "fileDate": "2021-06-10T14:45:18.25Z",
+        "fileLength": 408821,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3346/518/cavenabler-1.0.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_cavenabler",
+            "fingerprint": 18375977,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3683723761,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 59855826,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fr",
+            "fingerprint": 1924345944,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3158195541,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "cavenabler-1.0.0.jar"
+      },
+      "dateInstalled": "2021-07-13T10:00:39.3020128Z",
+      "dateUpdated": "2021-07-13T10:00:39.3269441Z",
+      "dateLastUpdateAttempted": "2021-07-13T10:00:39.3269441Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -14271,6 +14338,109 @@
       "installedTargets": null
     },
     {
+      "addonID": 431787,
+      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
+      "installedFile": {
+        "id": 3377991,
+        "displayName": "Rats-Mischief-1.1.4.jar",
+        "fileName": "ratsmischief-1.1.4.jar",
+        "fileDate": "2021-07-05T22:59:52.69Z",
+        "fileLength": 262958,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3377/991/ratsmischief-1.1.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 388172,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ratsmischief.mixins.json",
+            "fingerprint": 618428062,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 736793633,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 3632758635,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3115091678,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ratsmischief-refmap.json",
+            "fingerprint": 3494679808,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ladysnake",
+            "fingerprint": 2384649308,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 566006701,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ratsmischief-1.1.4.jar"
+      },
+      "dateInstalled": "2021-07-13T10:12:26.2024784Z",
+      "dateUpdated": "2021-07-13T10:12:26.2314015Z",
+      "dateLastUpdateAttempted": "2021-07-13T10:12:26.2314015Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 317856,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
       "installedFile": {
@@ -23911,24 +24081,6 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
-    },
-    {
-      "addonID": 265729,
-      "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
-      "installedFile": null,
-      "dateInstalled": "2021-07-13T09:47:54.8244426Z",
-      "dateUpdated": "2021-07-13T09:47:54.8606521Z",
-      "dateLastUpdateAttempted": "2021-07-13T09:47:54.8606521Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
     },
     {
       "addonID": 317121,
