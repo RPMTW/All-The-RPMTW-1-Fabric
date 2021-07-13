@@ -467,7 +467,14 @@
     "neon_cactus_block_slab [default: true]": true,
     "neon_cactus_block_stairs [default: true]": true,
     "sugar_from_root [default: true]": true,
-    "guide_book [default: true]": true
+    "guide_book [default: true]": true,
+    "flavolite_flower_pot [default: true]": true,
+    "violecite_flower_pot [default: true]": true,
+    "sulphuric_rock_flower_pot [default: true]": true,
+    "virid_jadestone_flower_pot [default: true]": true,
+    "azure_jadestone_flower_pot [default: true]": true,
+    "sandy_jadestone_flower_pot [default: true]": true,
+    "endstone_flower_pot [default: true]": true
   },
   "furnace": {
     "thallasium_ingot_furnace_ore [default: true]": true,
