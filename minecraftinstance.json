@@ -429,8 +429,8 @@
   "name": "ATR1 + Fabric",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-07-13T09:36:16.836319Z",
-  "lastRefreshAttempt": "2021-07-13T17:36:17.9213896+08:00",
+  "lastPreviousMatchUpdate": "2021-07-13T10:22:21.7062357Z",
+  "lastRefreshAttempt": "2021-07-13T18:22:24.5049369+08:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.17",
@@ -10099,92 +10099,7 @@
     {
       "addonID": 391390,
       "gameInstanceID": "3b9ef942-0611-4151-8fc9-68ab383b3708",
-      "installedFile": {
-        "id": 3363974,
-        "displayName": "identity-1.14.2-beta-1.17.jar",
-        "fileName": "identity-1.14.2-beta-1.17.jar",
-        "fileDate": "2021-06-25T01:52:41.033Z",
-        "fileLength": 528793,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3363/974/identity-1.14.2-beta-1.17.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1367768863,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 560443843,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "identity.mixins.json",
-            "fingerprint": 130116628,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "identity.accesswidener",
-            "fingerprint": 1673736967,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 3029174227,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1827787713,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 696059120,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "identity-refmap.json",
-            "fingerprint": 4066432435,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "draylar",
-            "fingerprint": 2338089747,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2658534520,
-        "gameVersion": [
-          "1.17",
-          "Fabric",
-          "1.17-Snapshot"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "identity-1.14.2-beta-1.17.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-07-04T08:25:29.9684512Z",
       "dateUpdated": "2021-07-04T08:25:29.9884528Z",
       "dateLastUpdateAttempted": "2021-07-04T08:25:29.9884528Z",

@@ -97,8 +97,6 @@ key_modifiers_gui.xaero_map_zoom_in:
 key_modifiers_gui.xaero_map_zoom_out:
 key_modifiers_gui.xaero_quick_confirm:
 key_modifiers_key.dankstorage.construction:
-key_modifiers_key.identity:
-key_modifiers_key.identity_ability:
 key_modifiers_seamless_loading_screen.keybind.config:
 key_modifiers_key.slotlock:
 key_modifiers_key.extraalchemy.magnetism_toggle:
