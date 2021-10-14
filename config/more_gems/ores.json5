@@ -1,5 +1,11 @@
 {
 	/* ***********************
+	   Cave and Cliffs
+	   Datapack OreGen
+	   ***********************
+	*/
+	"enableCAC": false,
+	/* ***********************
 	   Citrine Ores
 	   ***********************
 	*/
@@ -16,13 +22,13 @@
 	"tourmalineMaxLevel": 70,
 	"tourmalinePerChunk": 12,
 	/* ***********************
-	   Amethyst Ores
+	   KUNZITE Ores
 	   ***********************
 	*/
-	"amethystEnable": true,
-	"amethystVeinSize": 4,
-	"amethystMaxLevel": 60,
-	"amethystPerChunk": 12,
+	"kunziteEnable": true,
+	"kunziteVeinSize": 4,
+	"kunziteMaxLevel": 60,
+	"kunzitePerChunk": 12,
 	/* ***********************
 	   Topaz Ores
 	   ***********************

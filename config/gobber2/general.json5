@@ -40,6 +40,7 @@
 	"enableStaffSniper": true,
 	"enableStaffStars": true,
 	"enableStaffTransformation": true,
+	"enableStaffHostileEnsnarement": true,
 	/* 
 	   
 	   ***********************
@@ -100,8 +101,10 @@
 	"staffTransformationDurability": 1025,
 	"staffClearingRange": 11,
 	"staffSniperCooldown": 240,
-	"staffFarmerRange": 10,
+	"staffFarmerHorizRange": 12,
+	"staffFarmerVertRange": 6,
 	"staffFarmerInterval": 180,
+	"staffFarmerIntervalCactus": 20,
 	"staffFarmerReplant": true,
 	"staffEnsnarementHotileMobs": false,
 	/* 
@@ -114,7 +117,6 @@
 	"enableEndHammer5x5": true,
 	"enableEndExcavator5x5": true,
 	"enableTreeAxe": true,
-	"treeAxeDelayTick": 3,
 	"enableHammers": true,
 	"enableExcavators": true,
 	"enablePaxels": true,
@@ -212,6 +214,23 @@
 	"gobberEndArmorEnchantability": 30,
 	"gobberEndToughness": 3.0,
 	"gobberEndKnockbackResistance": 0.30000001192092896,
+	/* 
+	   
+	   
+	   ******************************
+	   Dragon Armor Material Stats
+	   ******************************
+	*/
+	"enableFlight": true,
+	"enableHealingPerks": true,
+	"enableProtectiveEffects": true,
+	"enableNoFallDamage": true,
+	"unbreakableDragonArmor": true,
+	"gobberDragonDurabilityMultiplier": 100,
+	"gobberDragonArmorEnchantability": 30,
+	"gobberDragonToughness": 3.0,
+	"gobberDragonKnockbackResistance": 1.0,
+	"gobberDragonArmorHealingPoints": 4,
 	/* 
 	   
 	   ***********************

@@ -19,6 +19,9 @@
 	"enableShulkerBlade": false,
 	"enableUntouchable": false,
 	"enableFasterObsidian": false,
+	"enableBlinking": true,
+	"enableWisdom": true,
+	"enableStupify": true,
 	"amountYellowHeartsQuickening": 10.0,
 	"durationQuickening": 40,
 	"strengthLevelQuickening": 1,
@@ -28,7 +31,10 @@
 	"razorDamageIncrease": 6.0,
 	"untouchableDamage": 7,
 	"shulkerBladeDurationTicks": 300,
+	"wisdomExperienceMultiplier": 5,
 	/* ********************************
+	   
+	   ******************************
 	   Bows, Paxels, Hammers, & Excavators
 	   ********************************
 	*/
@@ -84,25 +90,25 @@
 	   
 	   
 	   ******************************
-	   AMETHYST TOOL MATERIAL
+	   KUNZITE TOOL MATERIAL
 	   ******************************
 	*/
-	"amethystDurability": 1092,
-	"amethystMiningSpeed": 6.0,
-	"amethystAttackDamage": 2.0,
-	"amethystMiningLevel": 2,
-	"amethystEnchantability": 14,
+	"kunziteDurability": 1092,
+	"kunziteMiningSpeed": 6.0,
+	"kunziteAttackDamage": 2.0,
+	"kunziteMiningLevel": 2,
+	"kunziteEnchantability": 14,
 	/* 
 	   
 	   
 	   ******************************
-	   AMETHYST ARMOR MATERIAL
+	   KUNZITE ARMOR MATERIAL
 	   ******************************
 	*/
-	"amethystDurabilityMultiplier": 23,
-	"amethystArmorEnchantability": 9,
-	"amethystToughness": 0.0,
-	"amethystKnockbackResistance": 0.0,
+	"kunziteDurabilityMultiplier": 23,
+	"kunziteArmorEnchantability": 9,
+	"kunziteToughness": 0.0,
+	"kunziteKnockbackResistance": 0.0,
 	/* 
 	   
 	   

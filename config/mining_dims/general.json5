@@ -2,11 +2,21 @@
 	/* 
 	   
 	   ***********************
-	   Dimensions
+	   Portals
 	   ***********************
 	*/
-	"enableMining": true,
-	"enableHunting": true,
-	"enableCaving": true,
-	"enableNethering": true
+	"enableMiningPortal": true,
+	"enableHuntingPortal": true,
+	"enableCavingPortal": true,
+	"enableNetheringPortal": true,
+	/* 
+	   
+	   ***********************
+	   Portable Teleporters
+	   ***********************
+	*/
+	"enableMiningTeleporter": true,
+	"enableHuntingTeleporter": true,
+	"enableCavingTeleporter": true,
+	"enableNetheringTeleporter": true
 }

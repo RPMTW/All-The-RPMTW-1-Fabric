@@ -1,0 +1,58 @@
+{
+  "boilerConfig": {
+    "waterCapacity": {
+      "values": [
+        10000,
+        10000
+      ]
+    },
+    "steamCapacity": {
+      "values": [
+        10000,
+        10000
+      ]
+    },
+    "transformRate": {
+      "values": [
+        20,
+        40
+      ]
+    },
+    "transferRate": {
+      "values": [
+        40,
+        80
+      ]
+    }
+  },
+  "industrialFurnaceConfig": {
+    "steamCapacity": {
+      "values": [
+        10000,
+        10000
+      ]
+    },
+    "consumeRate": {
+      "values": [
+        10,
+        20
+      ]
+    }
+  },
+  "pipeConfig": {
+    "holdingCapacity": {
+      "values": [
+        1000,
+        3000,
+        5000
+      ]
+    },
+    "transferRate": {
+      "values": [
+        10,
+        20,
+        40
+      ]
+    }
+  }
+}

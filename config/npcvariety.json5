@@ -32,5 +32,7 @@
 	// Gives skin variation for wandering traders
 	"wanderingTraderVariation": true,
 	// Gives skin variation for zombie villagers
-	"zombieVillagerVariation": true
+	"zombieVillagerVariation": true,
+	// Gives cured villagers red eyes, uesful for remembering if a villager was cured already or not
+	"convertedVillagersHaveRedEyes": false
 }
